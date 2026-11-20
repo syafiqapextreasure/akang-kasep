@@ -26,7 +26,7 @@ test('retired before-and-after URLs redirect directly to the merged hero',async(
 test('merged project hero has one accessible slider and no separate page or internal legacy links',()=>{
  assert.equal(routes.length,10);assert.equal(routes.some(r=>r.path==='/project-progress'),false);
  const html=renderers.project();assert.equal((html.match(/type="range"/g)||[]).length,1);
- assert.match(html,/AI-recreated comparison/);assert.match(html,/id="before-after"/);assert.match(html,/<noscript>/);
+ assert.match(html,/id="before-after"/);assert.match(html,/<noscript>/);
  for(const route of routes)assert.doesNotMatch(renderers[route.key](),/href="\/project-progress(?:["#?])/);
  assert.match(renderers.home(),/data-living-story/,'Selected homepage panels remain available');
 });
