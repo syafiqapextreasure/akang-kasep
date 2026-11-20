@@ -1,0 +1,14 @@
+Living Architectural Panels — selected direction
+21 November 2026
+
+Owner selected concept 03 and requested more scenes, no preview/replay/pause controls, and continuous looping except during hover or manual selection.
+
+Implemented one shared six-scene component on Home and /project-progress: Foundations (photo 14), Concrete frame (12), Brickwork (15), Roof works (2), Façade (8), Latest view (7). Existing original project photos are reused; each photograph appears only once per page. No generated project progression, dates, completion claims or synthetic viewpoint alignment were introduced.
+
+The active image expands while five narrow architectural strips remain visible. A 0.85-second transition leads into each 4.5-second scene. After the sixth scene the loop returns to the first. No playback, preview or replay buttons. Hover pauses; leaving resumes with a full interval. Click/tap or arrow-key selection holds the chosen scene for manual browsing for the remainder of that page visit. Keyboard focus, background tabs and offscreen components suspend automatic changes. Reduced-motion preferences disable automatic motion and preserve manual selection. The page does not announce every automatic scene to screen readers.
+
+On phone screens the six panels stack vertically with horizontal labels. Interactive targets are at least 48px across the reviewed phone/tablet breakpoints. Readable typography, cream/forest/orange palette and original image quality remain intact. The old homepage teaser and project-progress playback controls/script were removed.
+
+The portable selected-concept artifact is output/akang-kasep-living-panels-2026-11-21/index.html outside this source checkout. The previous motion-storyboard index was updated to show this selected version so the owner's existing review link remains current; the prior three-concept ZIP is preserved.
+
+Checks: 15 Node tests passed, including six new checks for repeated looping, hover/resume, persistent manual selection, keyboard wrapping, focus/visibility and reduced motion. Browser checks covered Home and project-progress at 320, 390, 768, 1440 and 2560px: six scenes, no repeated project photos, no horizontal overflow and no unwanted playback controls. The 768px inactive target width was adjusted to 48px and rechecked. Desktop/phone screenshots and responsive evidence are retained in output/akang-kasep-living-panels-review-2026-11-21.

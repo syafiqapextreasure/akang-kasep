@@ -1,0 +1,28 @@
+/* Selected Living Architectural Panels: six real scenes, no playback controls. */
+.living-story{--scene-duration:4.5s;margin-top:1.2rem}
+.living-panels{display:flex;gap:8px;height:clamp(440px,38vw,680px);isolation:isolate}
+.living-panel{position:relative;flex:1 1 0;min-width:0;overflow:hidden;border:0;padding:0;background:var(--forest);color:#fff;text-align:left;cursor:pointer;transition:flex-grow .85s cubic-bezier(.2,.8,.2,1)}
+.living-panel.is-active{flex-grow:7}
+.living-panel::after{content:'';position:absolute;inset:0;pointer-events:none;background:linear-gradient(180deg,#061c1810 25%,#061c1830 55%,#061c18eb)}
+.living-panel img{position:absolute;inset:0;width:100%;height:100%;max-width:none;object-fit:cover;object-position:var(--panel-focal,50% 50%);transition:filter .6s,transform 1.2s;filter:brightness(.82);transform:scale(1.025)}
+.living-panel.is-active img{filter:brightness(1);transform:scale(1)}
+.panel-caption{position:absolute;z-index:2;left:1.3rem;right:1.3rem;bottom:1.3rem;display:block;pointer-events:none}
+.panel-title{display:block;font:400 clamp(1.45rem,2.4vw,2.65rem)/1.12 var(--serif);letter-spacing:-.025em;color:#fff}
+.panel-description{display:block;max-width:38ch;margin-top:.5rem;font:400 .9rem/1.5 var(--sans);color:#fff}
+.living-panel:not(.is-active) .panel-caption{left:50%;right:auto;bottom:1.2rem;transform:translateX(-50%);writing-mode:vertical-rl}
+.living-panel:not(.is-active) .panel-title{font-size:1.05rem;white-space:nowrap;letter-spacing:.015em}
+.living-panel:not(.is-active) .panel-description{display:none}
+.panel-timer{position:absolute;bottom:0;left:0;right:0;height:3px;z-index:3;background:#f98a29;transform:scaleX(0);transform-origin:left}
+.living-story[data-playing=true] .is-active .panel-timer{animation:panel-dwell var(--scene-duration) linear forwards}
+.living-story[data-mode=manual] .is-active .panel-timer{transform:scaleX(1)}
+.living-panel:focus-visible{outline:3px solid var(--orange);outline-offset:4px;z-index:4}
+.panel-footer{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding-top:.85rem}
+.panel-hint{font-size:.8rem;color:var(--muted);line-height:1.5}
+.panel-footer .text-link{font-size:1rem;white-space:nowrap}
+.panels-progress{padding-bottom:1.8rem}
+@keyframes panel-dwell{to{transform:scaleX(1)}}
+@media(max-width:1000px) and (min-width:681px){.living-panels{height:480px;gap:6px}.living-panel{min-width:48px}.living-panel.is-active{flex-grow:9}.panel-caption{left:1rem;right:1rem}.living-panel:not(.is-active) .panel-title{font-size:.92rem}.panel-description{font-size:.85rem}}
+@media(max-width:680px){.living-panels{flex-direction:column;height:620px;gap:6px}.living-panel{flex:0 0 49px;min-height:49px;width:100%;transition:flex-grow .8s cubic-bezier(.2,.8,.2,1),flex-basis .8s cubic-bezier(.2,.8,.2,1)}.living-panel.is-active{flex:1 1 0}.panel-caption{left:1rem;right:1rem;bottom:1rem}.panel-title{font-size:1.8rem}.panel-description{font-size:.9rem}.living-panel:not(.is-active) .panel-caption{writing-mode:horizontal-tb;transform:none;left:1rem;right:1rem;bottom:0;top:0;display:flex;align-items:center}.living-panel:not(.is-active) .panel-title{font-size:1rem}.living-panel:not(.is-active)::after{background:#061c1899}.panel-footer{align-items:flex-start;flex-wrap:wrap;gap:.5rem}.panel-hint{font-size:.8rem}.pointer-hint{display:none}}
+@media(prefers-reduced-motion:reduce){.living-panel,.living-panel img{transition:none}.panel-timer{animation:none!important}.living-panel img{transform:none}}
+@media(scripting:none){.living-panels{height:auto;display:grid;grid-template-columns:repeat(3,minmax(0,1fr))}.living-panel{height:360px}.living-panel .panel-caption{writing-mode:horizontal-tb!important;transform:none!important;left:1rem!important;right:1rem!important}.living-panel .panel-title{font-size:1.4rem!important;white-space:normal!important}.panel-hint{display:none}}
+@media(scripting:none) and (max-width:680px){.living-panels{grid-template-columns:1fr}.living-panel{height:300px}}
