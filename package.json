@@ -12,7 +12,7 @@
     "test": "node --test tests/*.test.mjs",
     "cf:setup": "node scripts/setup-cloudflare.mjs",
     "cf:dev": "npm run build && wrangler dev",
-    "deploy": "npm run build && wrangler deploy"
+    "deploy": "npm run build && npm run cf:setup && wrangler deploy"
   },
   "devDependencies": {
     "@axe-core/playwright": "^4.14.0",

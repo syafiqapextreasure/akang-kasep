@@ -20,13 +20,22 @@ Open `http://127.0.0.1:4321`. Local test enquiries use an in-memory SQLite datab
 ```sh
 npm ci
 npx wrangler login
-npm run cf:setup
 npm run deploy
 ```
 
-`cf:setup` creates or reuses `akang-kasep-enquiries`, writes its real ID into `wrangler.jsonc`, and applies the D1 migration. The checked-in all-zero database ID is deliberately a setup placeholder. Run setup before deployment. The script handles paths containing spaces on Windows.
+`npm run deploy` builds the website, runs `cf:setup`, then publishes the Worker only after setup succeeds. Setup creates or reuses the exact database name `akang-kasep-enquiries`, writes its real ID into the build's `wrangler.jsonc`, and applies pending D1 migrations. Repeated builds reuse the database and preserve enquiries. No account-specific ID needs to be committed. The script handles paths containing spaces on Windows. `npm run cf:setup` remains available for database setup alone.
 
-For a Git-connected Cloudflare Worker, run setup once, commit the resulting database ID, then configure build command `npm run build` and deploy command `npx wrangler deploy`. Use repository root as the build directory. The D1 ID is configuration, not a secret. Account credentials stay in Wrangler/Cloudflare, never in Git.
+For a Git-connected Cloudflare Worker, use these settings under **Settings > Build > Build configuration**:
+
+| Setting | Value |
+| --- | --- |
+| Build command | `npm run build` |
+| Deploy command | `npm run deploy` |
+| Root directory | repository root (`/`) |
+
+**Change an existing `npx wrangler deploy` deploy command to `npm run deploy`.** The direct Wrangler command skips this application's migration step. Save the setting and retry the latest commit. The build's Cloudflare credentials need D1 read/write access as well as Worker deployment access. If setup reports a permissions error, check the build API token's account and D1 permissions in Cloudflare; never paste the token into source code or chat.
+
+Deployment error **10181** with database `00000000-0000-0000-0000-000000000000` means an older checkout attempted to bind a placeholder database. That placeholder has been removed. Select the latest commit and the deploy command above; the setup step resolves the real ID before publishing. Database setup/migration failure stops deployment instead of publishing a form with missing tables. Account credentials stay in Wrangler/Cloudflare, never in Git.
 
 The default canonical origin is the request's HTTPS hostname. When a custom domain is connected, add `SITE_URL` to `vars` in `wrangler.jsonc`, for example `https://your-approved-domain.example`, and redeploy. Keep one primary public hostname. No DNS changes or live deployment were performed during the build task.
 
