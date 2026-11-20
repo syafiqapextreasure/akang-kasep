@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "home-aerial-enhanced",
+    "file": "image-09.webp",
+    "prompt": "Edit target: the supplied aerial photograph of the Malaysian education-facility campus. Perform a faithful high-resolution restoration for a large-desktop website hero. Sharpen fine roof tile edges, window frames, white facade lines, parking markings and distant architectural details; remove compression softness and mild atmospheric haze naturally. Preserve EXACT camera angle, crop, building footprint, floor count, window placement, roof shapes, colour scheme, trees, roads and vehicles. Do not redesign, add or remove anything. Keep realistic natural photographic texture, restrained colour, no crunchy halos, no HDR glow, no painterly texture. Landscape 16:9, maximum available output resolution, ideally 3840x2160. The result is one clean full photograph, no borders, text, labels, collage or watermark.",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a1f976-3cb5-7483-993c-6bca6897df6c\\exec-afbfc404-e73d-4525-8101-ec11d06d3c1e.png",
+    "mode": "built-in image_gen",
+    "date": "2026-11-21",
+    "master": "C:\\Users\\user\\Documents\\Codex\\apex-email-outreach\\output\\imagegen\\akang-kasep-hero-comparison-2026-11-21\\home-aerial-enhanced.png",
+    "width": 1672,
+    "height": 941,
+    "files": [
+      {
+        "name": "home-aerial-enhanced-480.webp",
+        "width": 480,
+        "bytes": 196220
+      },
+      {
+        "name": "home-aerial-enhanced-768.webp",
+        "width": 768,
+        "bytes": 489974
+      },
+      {
+        "name": "home-aerial-enhanced-1080.webp",
+        "width": 1080,
+        "bytes": 955740
+      },
+      {
+        "name": "home-aerial-enhanced.webp",
+        "width": 1672,
+        "bytes": 2213156
+      }
+    ]
+  },
+  {
+    "slug": "home-construction-enhanced",
+    "file": "image-17.webp",
+    "prompt": "Edit target: supplied portrait photograph of a blue mobile crane beside a concrete construction frame. Restore and sharpen this exact photograph for a construction company's website. Preserve EXACT composition, crane geometry, boom position, building shape and number of storeys, scaffold positions, all visible people and surrounding site. Improve optical clarity, concrete and steel texture, scaffold edges, crane details and clean natural contrast. Avoid inventing extra equipment, changing building geometry, changing perspective, moving people or altering safety details. No oversharpening halos or plastic textures. Portrait 3:4 with maximum available resolution, ideally 2160x2880. One clean photograph, no graphic overlays, text, border or watermark.",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a1f976-3cb5-7483-993c-6bca6897df6c\\exec-a4fbcfaa-fa50-43d1-9d5d-525c9dfb36c6.png",
+    "mode": "built-in image_gen",
+    "date": "2026-11-21",
+    "master": "C:\\Users\\user\\Documents\\Codex\\apex-email-outreach\\output\\imagegen\\akang-kasep-hero-comparison-2026-11-21\\home-construction-enhanced.png",
+    "width": 1086,
+    "height": 1448,
+    "files": [
+      {
+        "name": "home-construction-enhanced-480.webp",
+        "width": 480,
+        "bytes": 403376
+      },
+      {
+        "name": "home-construction-enhanced-768.webp",
+        "width": 768,
+        "bytes": 1056014
+      },
+      {
+        "name": "home-construction-enhanced-1080.webp",
+        "width": 1080,
+        "bytes": 2002310
+      },
+      {
+        "name": "home-construction-enhanced.webp",
+        "width": 1086,
+        "bytes": 2020636
+      }
+    ]
+  },
+  {
+    "slug": "project-after-recreated",
+    "file": "image-10.webp",
+    "prompt": "Edit target: supplied ground-level corner view of the cream, brown and pale-pink Malaysian education-facility building with burgundy roofs and external stairs. Faithfully recreate and restore this exact photograph in very high photographic detail for the AFTER image of an aligned before/after website slider. CRITICAL invariants: keep the exact lens, perspective, camera location, frame boundaries, building silhouette, four-storey grid, roof ridges, stairs, windows, railings, pavement, kerbs, sky, cars and small trees at exactly the same positions. Do not recompose or beautify architecture. Sharpen facade edges, roof details and paving naturally; remove low-resolution softness and preserve realistic materials and overcast lighting. Landscape 4:3, maximum output resolution ideally 3072x2304. Full photograph only, no letters, no labels, no collage, no split screen, no border. This is a clearly labelled AI-recreated project visualisation, not documentary evidence.",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a1f976-3cb5-7483-993c-6bca6897df6c\\exec-34dc7e67-e28f-428b-bd99-a9c1d85dd3ad.png",
+    "mode": "built-in image_gen",
+    "date": "2026-11-21",
+    "master": "C:\\Users\\user\\Documents\\Codex\\apex-email-outreach\\output\\imagegen\\akang-kasep-hero-comparison-2026-11-21\\project-after-recreated.png",
+    "width": 1448,
+    "height": 1086,
+    "files": [
+      {
+        "name": "project-after-recreated-480.webp",
+        "width": 480,
+        "bytes": 172892
+      },
+      {
+        "name": "project-after-recreated-768.webp",
+        "width": 768,
+        "bytes": 452172
+      },
+      {
+        "name": "project-after-recreated-1080.webp",
+        "width": 1080,
+        "bytes": 911982
+      },
+      {
+        "name": "project-after-recreated.webp",
+        "width": 1448,
+        "bytes": 1570470
+      }
+    ]
+  },
+  {
+    "slug": "project-before-recreated",
+    "prompt": "Edit target: the supplied enhanced project AFTER photograph. Create the matching BEFORE construction-stage image for a draggable comparison slider. This is an explicitly labelled AI-recreated visualisation. CRITICAL: lock the exact 4:3 image canvas, crop, lens, camera pose, all vanishing points, sky, background, every structural column coordinate, floor slab edge, corner stairwell and building footprint. Keep the scene pixel-aligned with the reference wherever structure remains; absolutely no recentering, zoom, rotation or perspective change. Change only construction completion: replace cream/brown/pink plaster finishes with unfinished grey reinforced concrete and red-brick infill; retain all four floor levels and the same zigzag stairs but make their surfaces unfinished; remove window glazing and finished decorative metal cladding; replace roof tile coverage with matching exposed roof trusses in precisely the same roof silhouette. Add plausible scaffold lines attached to the same facade. Replace the finished asphalt and painted parking markings with compacted earth, modest material stacks and site debris; remove the parked car and newly planted landscape plants. Keep sky/lighting and far background unchanged. Do not add cranes or workers that obscure the building alignment. Photorealistic sharp concrete, brick, steel and earth, natural subdued overcast light. Match the input resolution and exact aspect ratio. One full BEFORE image only, not a split view; no captions, labels, border or watermark.",
+    "file": "project-after-recreated",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a1f976-3cb5-7483-993c-6bca6897df6c\\exec-978d1687-a742-40b5-9d2a-01b9776e5490.png",
+    "mode": "built-in image_gen",
+    "date": "2026-11-21",
+    "master": "C:\\Users\\user\\Documents\\Codex\\apex-email-outreach\\output\\imagegen\\akang-kasep-hero-comparison-2026-11-21\\project-before-recreated.png",
+    "width": 1448,
+    "height": 1086,
+    "files": [
+      {
+        "name": "project-before-recreated-480.webp",
+        "width": 480,
+        "bytes": 202124
+      },
+      {
+        "name": "project-before-recreated-768.webp",
+        "width": 768,
+        "bytes": 533084
+      },
+      {
+        "name": "project-before-recreated-1080.webp",
+        "width": 1080,
+        "bytes": 1069950
+      },
+      {
+        "name": "project-before-recreated.webp",
+        "width": 1448,
+        "bytes": 1845210
+      }
+    ]
+  }
+]

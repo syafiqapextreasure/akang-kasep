@@ -42,6 +42,7 @@ export default {
   if(pathname==='/api/enquiry-status'&&request.method==='GET')return withSecurity(json(await receipt(request,env)||{accepted:false}));
   if(pathname.startsWith('/api/'))return withSecurity(json({message:'Not found.'},404));
   if(!['GET','HEAD'].includes(request.method))return withSecurity(new Response('Method not allowed',{status:405,headers:{Allow:'GET, HEAD'}}));
+  if(/^\/project-progress(?:\/index\.html|\.html|\/)?$/.test(pathname)){const destination=new URL('/projects/education-facility',url);destination.search=url.search;destination.hash='before-after';return withSecurity(Response.redirect(destination,308));}
   if(pathname.endsWith('/index.html')||pathname.endsWith('.html')){pathname=pathname==='/index.html'?'/':pathname.replace(/\/index\.html$|\.html$/,'');return withSecurity(Response.redirect(new URL(pathname||'/',url),308));}
   if(pathname.length>1&&pathname.endsWith('/'))return withSecurity(Response.redirect(new URL(pathname.replace(/\/+$/,''),url),308));
   let origin=url.origin;if(env.SITE_URL){const configured=new URL(env.SITE_URL);if(configured.protocol!=='https:')throw new Error('SITE_URL must use HTTPS');origin=configured.origin;}

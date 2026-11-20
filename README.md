@@ -1,6 +1,6 @@
 # Akang Kasep website
 
-Eleven responsive screens based on the approved Warm Architectural designs: Home, About, Services, Projects, Project detail, Before & After, Credentials, Contact, Privacy, Enquiry confirmation and 404. About combines both approved panels; historical contracts appear on Projects.
+Ten responsive screens based on the approved Warm Architectural designs: Home, About, Services, Projects, Project detail with Before & After hero, Credentials, Contact, Privacy, Enquiry confirmation and 404. About combines both approved panels; historical contracts appear on Projects.
 
 Built as prerendered HTML with local fonts, lossless WebP photographs, a small JavaScript enhancement layer, and a Cloudflare Worker/D1 enquiry endpoint. Public URLs have no `.html` suffix. No frontend framework or third-party runtime is required.
 
@@ -109,3 +109,5 @@ Official platform references checked for this implementation:
 - [Scheduled Worker triggers](https://developers.cloudflare.com/workers/configuration/cron-triggers/)
 
 Font licenses are included in `public/assets/LICENSE-*.txt`. Original project photographs and company branding remain the owner's materials. The four service images are generic AI-generated illustrations; their prompts, source masters and lossless web conversions are documented in `docs/generated-service-images.json`. The Contact page embeds a Google Maps location pin for the Residensi Kodika building and links to directions. See `docs/refinements-2026-11-21.txt` for the owner-requested refinements and proposed motion directions.
+
+The standalone `/project-progress` page is merged into `/projects/education-facility#before-after` with a permanent redirect. Comparison images are AI-recreated visualisations; original project photos remain in the gallery. Image-generation provenance and actual native dimensions: `docs/generated-hero-images.json`.
