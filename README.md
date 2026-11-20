@@ -108,4 +108,4 @@ Official platform references checked for this implementation:
 - [D1 Time Travel](https://developers.cloudflare.com/d1/reference/time-travel/)
 - [Scheduled Worker triggers](https://developers.cloudflare.com/workers/configuration/cron-triggers/)
 
-Font licenses are included in `public/assets/LICENSE-*.txt`. Photographs and company branding remain the owner's materials.
+Font licenses are included in `public/assets/LICENSE-*.txt`. Original project photographs and company branding remain the owner's materials. The four service images are generic AI-generated illustrations; their prompts, source masters and lossless web conversions are documented in `docs/generated-service-images.json`. The Contact page embeds a Google Maps location pin for the Residensi Kodika building and links to directions. See `docs/refinements-2026-11-21.txt` for the owner-requested refinements and proposed motion directions.

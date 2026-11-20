@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "service-construction",
+    "prompt": "Create one high-quality photorealistic editorial photograph for a Malaysian construction company's service page. Landscape 3:2 composition, crisp realistic materials, professional architecture photography, natural warm daylight, restrained earthy concrete/cream/dark green palette with small safety-orange accents, genuine looking everyday Malaysian environment. This is generic service imagery, not a documented real company project. No lettering, no text overlays, no company logos, no watermarks, no border, no collage. Compose for cropping to a wide 2.3:1 horizontal website card; keep essential subject in central 65% and leave modest visual breathing room. No school campus or red-roof classroom buildings. Safe work practices, coherent construction details, realistic anatomy. Show building construction: an active three-storey contemporary commercial building with reinforced concrete columns and beams, well-organised formwork and scaffolding with proper guardrails, tower crane visible behind, stacks of materials neatly arranged; two helmeted site coordinators wearing high-visibility vests seen small in the midground on safe ground level inspecting drawings. Building and construction structure dominate the image. Three-quarter ground-level architectural view, clear late-afternoon sky, polished realistic documentary photography.",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a1f976-3cb5-7483-993c-6bca6897df6c\\exec-2b714c14-d7a9-4a11-98cd-a31cbe39483c.png",
+    "generator": "built-in image_gen",
+    "date": "2026-11-21",
+    "usage": "Generic service illustration; not evidence of an Akang Kasep project.",
+    "master": "C:\\Users\\user\\Documents\\Codex\\apex-email-outreach\\output\\imagegen\\akang-kasep-services-2026-11-21\\service-construction.png",
+    "width": 1536,
+    "height": 1024,
+    "originalBytes": 3143425,
+    "files": [
+      {
+        "name": "service-construction-480.webp",
+        "width": 480,
+        "bytes": 230722
+      },
+      {
+        "name": "service-construction-768.webp",
+        "width": 768,
+        "bytes": 580874
+      },
+      {
+        "name": "service-construction-1080.webp",
+        "width": 1080,
+        "bytes": 1131042
+      },
+      {
+        "name": "service-construction.webp",
+        "width": 1536,
+        "bytes": 2174236
+      }
+    ],
+    "compression": "Lossless WebP; decoded RGB verified identical for full-size derivative."
+  },
+  {
+    "slug": "service-civil",
+    "prompt": "Create one high-quality photorealistic editorial photograph for a Malaysian construction company's service page. Landscape 3:2 composition, crisp realistic materials, professional architecture photography, natural warm daylight, restrained earthy concrete/cream/dark green palette with small safety-orange accents, genuine looking everyday Malaysian environment. This is generic service imagery, not a documented real company project. No lettering, no text overlays, no company logos, no watermarks, no border, no collage. Compose for cropping to a wide 2.3:1 horizontal website card; keep essential subject in central 65% and leave modest visual breathing room. No school campus or red-roof classroom buildings. Safe work practices, coherent construction details, realistic anatomy. Show civil and external works: a compact roller finishing a newly paved access road beside newly installed concrete kerbs and a neat drainage channel in a low-rise Malaysian development. One helmeted surveyor with reflective vest operating a tripod total station safely off the roadway. Include road geometry, verge and drainage clearly; distant tropical trees, no prominent building facade. Slightly elevated wide documentary view, soft bright daylight, convincing machinery scale, orderly worksite.",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a1f976-3cb5-7483-993c-6bca6897df6c\\exec-2c413bdd-da4e-4dec-a9d9-4259b9bef82b.png",
+    "generator": "built-in image_gen",
+    "date": "2026-11-21",
+    "usage": "Generic service illustration; not evidence of an Akang Kasep project.",
+    "master": "C:\\Users\\user\\Documents\\Codex\\apex-email-outreach\\output\\imagegen\\akang-kasep-services-2026-11-21\\service-civil.png",
+    "width": 1536,
+    "height": 1024,
+    "originalBytes": 3516605,
+    "files": [
+      {
+        "name": "service-civil-480.webp",
+        "width": 480,
+        "bytes": 244572
+      },
+      {
+        "name": "service-civil-768.webp",
+        "width": 768,
+        "bytes": 621766
+      },
+      {
+        "name": "service-civil-1080.webp",
+        "width": 1080,
+        "bytes": 1212120
+      },
+      {
+        "name": "service-civil.webp",
+        "width": 1536,
+        "bytes": 2334396
+      }
+    ],
+    "compression": "Lossless WebP; decoded RGB verified identical for full-size derivative."
+  },
+  {
+    "slug": "service-maintenance",
+    "prompt": "Create one high-quality photorealistic editorial photograph for a Malaysian construction company's service page. Landscape 3:2 composition, crisp realistic materials, professional architecture photography, natural warm daylight, restrained earthy concrete/cream/dark green palette with small safety-orange accents, genuine looking everyday Malaysian environment. This is generic service imagery, not a documented real company project. No lettering, no text overlays, no company logos, no watermarks, no border, no collage. Compose for cropping to a wide 2.3:1 horizontal website card; keep essential subject in central 65% and leave modest visual breathing room. No school campus or red-roof classroom buildings. Safe work practices, coherent construction details, realistic anatomy. Show building maintenance and refurbishment: bright unoccupied commercial interior being refurbished, one skilled adult maintenance technician in clean workwear and eye protection using a roller on a cream wall from floor level, another adult technician inspecting an aluminium window frame, floor protected by clean drop sheets, small organised tool trolley. Freshly refurbished half of room visible, coherent architectural interior, no excessive mess, no spraypainting, no dangerous ladders, no electrical work. Wide interior architectural view with warm natural window light; subjects modest size, workmanship and room dominate.",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a1f976-3cb5-7483-993c-6bca6897df6c\\exec-8a6e0b66-ed9a-494b-a0b7-725f304afb4b.png",
+    "generator": "built-in image_gen",
+    "date": "2026-11-21",
+    "usage": "Generic service illustration; not evidence of an Akang Kasep project.",
+    "master": "C:\\Users\\user\\Documents\\Codex\\apex-email-outreach\\output\\imagegen\\akang-kasep-services-2026-11-21\\service-maintenance.png",
+    "width": 1536,
+    "height": 1024,
+    "originalBytes": 2382946,
+    "files": [
+      {
+        "name": "service-maintenance-480.webp",
+        "width": 480,
+        "bytes": 182514
+      },
+      {
+        "name": "service-maintenance-768.webp",
+        "width": 768,
+        "bytes": 448492
+      },
+      {
+        "name": "service-maintenance-1080.webp",
+        "width": 1080,
+        "bytes": 854386
+      },
+      {
+        "name": "service-maintenance.webp",
+        "width": 1536,
+        "bytes": 1605122
+      }
+    ],
+    "compression": "Lossless WebP; decoded RGB verified identical for full-size derivative."
+  },
+  {
+    "slug": "service-me",
+    "prompt": "Create one high-quality photorealistic editorial photograph for a Malaysian construction company's service page. Landscape 3:2 composition, crisp realistic materials, professional architecture photography, natural warm daylight, restrained earthy concrete/cream/dark green palette with small safety-orange accents, genuine looking everyday Malaysian environment. This is generic service imagery, not a documented real company project. No lettering, no text overlays, no company logos, no watermarks, no border, no collage. Compose for cropping to a wide 2.3:1 horizontal website card; keep essential subject in central 65% and leave modest visual breathing room. No school campus or red-roof classroom buildings. Safe work practices, coherent construction details, realistic anatomy. Show mechanical and electrical services: a tidy modern commercial plant room with clearly visible organised ventilation ducting, insulated pipework and closed electrical distribution cabinets. Two adult qualified-looking technicians in hard hats, safety glasses and workwear inspect the equipment using a tablet and a handheld meter near a closed cabinet, no exposed live wires and no touching live terminals. Strong clear depth perspective, stainless steel and neutral grey infrastructure, warm balanced overhead practical light, convincing technically coherent installation; not an industrial refinery. Wide professional facilities photography.",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a1f976-3cb5-7483-993c-6bca6897df6c\\exec-87990ff4-a00c-4726-aa3b-70962cdea705.png",
+    "generator": "built-in image_gen",
+    "date": "2026-11-21",
+    "usage": "Generic service illustration; not evidence of an Akang Kasep project.",
+    "master": "C:\\Users\\user\\Documents\\Codex\\apex-email-outreach\\output\\imagegen\\akang-kasep-services-2026-11-21\\service-me.png",
+    "width": 1536,
+    "height": 1024,
+    "originalBytes": 2369884,
+    "files": [
+      {
+        "name": "service-me-480.webp",
+        "width": 480,
+        "bytes": 198838
+      },
+      {
+        "name": "service-me-768.webp",
+        "width": 768,
+        "bytes": 474572
+      },
+      {
+        "name": "service-me-1080.webp",
+        "width": 1080,
+        "bytes": 874958
+      },
+      {
+        "name": "service-me.webp",
+        "width": 1536,
+        "bytes": 1594168
+      }
+    ],
+    "compression": "Lossless WebP; decoded RGB verified identical for full-size derivative."
+  }
+]

@@ -49,6 +49,36 @@
 /* Keep orange controls legible against white text. */
 .button{background:linear-gradient(110deg,#b94700,#c34f00)}.button.outline{background:transparent}.home-feature .ribbon-tag,.project-filters button[aria-pressed=true]{background:#bd4c00;border-color:#bd4c00}
 
+/* Process connectors align to badge centres, independent of label length. */
+.process{padding:1.2rem 0;gap:2rem}
+.process h2{flex:0 0 24%;max-width:none;margin:0}
+.process h2.small-label{flex-basis:15%}
+.process ol{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0;margin:0;min-width:0}
+.process li{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:flex-start;gap:.5rem;text-align:center;min-width:0;padding:0 .3rem;line-height:1.35}
+.process li span{position:relative;z-index:1;flex:none;width:2rem;height:2rem;background:var(--paper)}
+.process li::after{position:absolute;top:1rem;left:calc(50% + 1.35rem);right:calc(-50% + 1.35rem);width:auto;height:1px;margin:0;background:var(--line);opacity:1}
+.process li:last-child::after{display:none}
+.confirmation-steps{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0;text-align:center}
+.confirmation-steps li{min-width:0;padding:0 .5rem}
+.confirmation-steps li+li::before{left:calc(-50% + 2.05rem);right:calc(50% + 2.05rem);top:1.8rem;width:auto}
+.company-timeline{gap:2rem}
+.company-timeline li{border-top:1px solid var(--line);padding-top:.8rem}
+.company-timeline li+li::before{display:none}
+.caption-row:empty,.history-note:empty{display:none}
+.contact-map{padding:1.8rem 0 2rem}
+.map-heading{display:flex;align-items:center;gap:2rem;justify-content:space-between;margin-bottom:1.1rem}
+.map-heading>div{max-width:52rem}
+.map-heading h2{font-size:2.2rem;margin-bottom:.45rem}
+.map-heading p{font-size:.95rem;line-height:1.65;margin:0;max-width:65ch}
+.map-heading .button{flex-shrink:0}
+.map-frame{height:clamp(330px,33vw,560px);border:1px solid var(--line);background:var(--pale);overflow:hidden}
+.map-frame iframe{width:100%;height:100%;display:block;border:0}
+.service-row figure{min-width:0}
+.service-row .photo{aspect-ratio:1.8;min-height:0}
+.service-row .photo img{object-position:50% 50%}
+@media(max-width:1000px){.process,.page-services .pale-band .process{display:block}.process h2,.process h2.small-label{border:0;padding:0;margin-bottom:1rem}.process h2 br{display:none}.map-heading{align-items:flex-start;gap:1rem}.map-heading h2{font-size:1.9rem}.map-heading .button{font-size:.95rem}}
+@media(max-width:680px){.process ol{grid-template-columns:repeat(2,minmax(0,1fr));row-gap:1.1rem}.process li::after{display:block}.process li:nth-child(2n)::after{display:none}.confirmation-steps li+li::before{top:1.4rem;left:calc(-50% + 1.65rem);right:calc(50% + 1.65rem)}.company-timeline{gap:1rem}.map-heading{flex-direction:column;gap:1rem}.map-heading h2{font-size:2rem}.map-heading p{font-size:1rem}.contact-map{padding:1.4rem 0}.map-frame{height:360px}.map-heading .button{width:100%}.service-row .photo{aspect-ratio:1.5}}
+
 .confirmation-check .status-check{display:none}.confirmation-check:not(.accepted){background:transparent;color:var(--orange);border:1px solid var(--orange)}.confirmation-check.accepted .status-check{display:block}.confirmation-check.accepted .status-neutral{display:none}
 
 @media(min-width:681px){.project-lead>.photo{aspect-ratio:2.6}}

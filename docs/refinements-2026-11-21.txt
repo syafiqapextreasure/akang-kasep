@@ -1,0 +1,30 @@
+AKANG KASEP — OWNER REQUESTED REFINEMENTS
+21 November 2026
+
+Scope
+Owner confirmed successful deployment at https://akang-kasep.mail-82f.workers.dev/ and requested five refinements. Items 2–5 are implemented. Item 1 is delivered as three proposals with playable storyboards; the current homepage progress animation remains until the owner chooses a replacement.
+
+1. Motion proposals
+01 Architectural Reveal (recommended): one large project photo, diagonal forest-green curtain transitions, slow camera drift, three stages and a final project invitation. 12-second optional single cycle; direct stage controls and reduced-motion alternative.
+02 Site Journey: a four-chapter panoramic story from foundation to latest view. Native-scroll sticky treatment proposed for desktop; swipeable chapter gallery on mobile. Time-based preview demonstrates the sequence. No synthetic same-viewpoint morphing.
+03 Living Architectural Panels: three images expand and contract as the user selects a stage. Optional one-cycle introduction, followed by direct exploration. Horizontal stacked panels proposed for phone.
+Portable review artifact: output/akang-kasep-motion-storyboards-2026-11-21/index.html (outside this source repository). Uses original project photographs.
+
+2. Dividers and connectors
+Replaced floating process dashes with connectors anchored to the number-circle centres on Home and Services. Four columns on desktop; two rows on mobile, with no connector crossing between rows. Applied corresponding alignment to the three-step enquiry confirmation. Company-history milestone rules now sit above each item instead of interrupting the text.
+
+3. Editorial labels
+Removed source/draft commentary such as “As documented in the company profile”, “Adapted from…”, “Reference: supplied company profile” and “Working title”. Removed redundant source qualifications on credential cards and historical-project footnotes. Kept meaningful statuses, certificate validity dates, historical profile dates and dated SSM capital attribution. Original factual/source-review records remain in docs. Project identity is still provisional internally; removing a presentation label does not establish an official project title or completed status.
+
+4. Service illustrations
+Four distinct new scenes created with the owner-authorised built-in image generator: concrete construction, road/drainage civil works, interior refurbishment and M&E plant-room inspection. They illustrate services and do not purport to document an Akang Kasep project. Alt text identifies them as illustrative. All original project photos remain unchanged.
+Exact prompts, generated-source paths, dimensions, master locations and web derivatives: docs/generated-service-images.json. Full-size WebP conversions have identical decoded RGB pixels to generated PNG originals. Responsive derivatives are resized and encoded losslessly.
+
+5. Google Maps
+Replaced the contact project panorama with a Google Maps iframe, full office address and Get Directions action. Public Google Maps search for Residensi Kodika/Lot 1298/Kampung Pulau Rusa returned the KODIKA cooperative at the same building, on floor 2. Used a coordinate pin for the building (5.3100006, 103.0934072), not the other tenant’s business listing or rating. Akang Kasep’s supplied address remains No. 3A, Tingkat 1.
+Embed URL was obtained through Google Maps > Share > Embed a map on the coordinate pin. Building-location source: https://www.google.com/maps/place/?q=place_id:ChIJmSSY98W-tzER0oDyqbsbZho
+The embedded Google Maps marker was visually verified locally. This is building-level location evidence, not verification of an independent Akang Kasep Google Business Profile.
+Worker CSP allows only https://www.google.com for the added frame. Privacy Notice now describes the map’s third-party technical-data/cookie processing. A direct Directions link remains available if the embed is unavailable.
+
+Verification
+55 route/viewport checks (11 routes at 320/390/768/1440/2560px): no horizontal overflow, one H1 per page, removed editorial labels absent, process connector centres within 1px and positive connector widths. Desktop/mobile screenshots retained in output/akang-kasep-refinements-2026-11-21. Visual checks include process lines, four service scenes and Google Maps. Current check results are documented with delivery.

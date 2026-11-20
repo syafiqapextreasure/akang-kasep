@@ -1,0 +1,707 @@
+[
+  {
+    "width": 320,
+    "route": "/",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": [
+      {
+        "deltaY": 0.5,
+        "line": true,
+        "lineWidth": 86.8375
+      },
+      {
+        "deltaY": 0.5,
+        "line": false,
+        "lineWidth": null
+      },
+      {
+        "deltaY": 0.5,
+        "line": true,
+        "lineWidth": 86.8375
+      },
+      {
+        "deltaY": 0.5,
+        "line": false,
+        "lineWidth": null
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/about",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 320,
+    "route": "/services",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": [
+      {
+        "deltaY": 0.5,
+        "line": true,
+        "lineWidth": 86.8375
+      },
+      {
+        "deltaY": 0.5,
+        "line": false,
+        "lineWidth": null
+      },
+      {
+        "deltaY": 0.5,
+        "line": true,
+        "lineWidth": 86.8375
+      },
+      {
+        "deltaY": 0.5,
+        "line": false,
+        "lineWidth": null
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/projects",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 320,
+    "route": "/projects/education-facility",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 320,
+    "route": "/project-progress",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 320,
+    "route": "/credentials",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 320,
+    "route": "/contact",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 320,
+    "route": "/privacy",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 320,
+    "route": "/thank-you",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 320,
+    "route": "/404",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 390,
+    "route": "/",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": [
+      {
+        "deltaY": 0.5,
+        "line": true,
+        "lineWidth": 118.30000915527344
+      },
+      {
+        "deltaY": 0.5,
+        "line": false,
+        "lineWidth": null
+      },
+      {
+        "deltaY": 0.5,
+        "line": true,
+        "lineWidth": 118.30000915527344
+      },
+      {
+        "deltaY": 0.5,
+        "line": false,
+        "lineWidth": null
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "/about",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 390,
+    "route": "/services",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": [
+      {
+        "deltaY": 0.5,
+        "line": true,
+        "lineWidth": 118.30000915527344
+      },
+      {
+        "deltaY": 0.5,
+        "line": false,
+        "lineWidth": null
+      },
+      {
+        "deltaY": 0.5,
+        "line": true,
+        "lineWidth": 118.30000915527344
+      },
+      {
+        "deltaY": 0.5,
+        "line": false,
+        "lineWidth": null
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "/projects",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 390,
+    "route": "/projects/education-facility",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 390,
+    "route": "/project-progress",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 390,
+    "route": "/credentials",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 390,
+    "route": "/contact",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 390,
+    "route": "/privacy",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 390,
+    "route": "/thank-you",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 390,
+    "route": "/404",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 768,
+    "route": "/",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": [
+      {
+        "deltaY": 0.5,
+        "line": true,
+        "lineWidth": 119.62550610351562
+      },
+      {
+        "deltaY": 0.5,
+        "line": true,
+        "lineWidth": 119.6380030517578
+      },
+      {
+        "deltaY": 0.5,
+        "line": true,
+        "lineWidth": 119.62550610351562
+      },
+      {
+        "deltaY": 0.5,
+        "line": false,
+        "lineWidth": null
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/about",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 768,
+    "route": "/services",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": [
+      {
+        "deltaY": 0.5,
+        "line": true,
+        "lineWidth": 119.62550610351562
+      },
+      {
+        "deltaY": 0.5,
+        "line": true,
+        "lineWidth": 119.6380030517578
+      },
+      {
+        "deltaY": 0.5,
+        "line": true,
+        "lineWidth": 119.62550610351562
+      },
+      {
+        "deltaY": 0.5,
+        "line": false,
+        "lineWidth": null
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/projects",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 768,
+    "route": "/projects/education-facility",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 768,
+    "route": "/project-progress",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 768,
+    "route": "/credentials",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 768,
+    "route": "/contact",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 768,
+    "route": "/privacy",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 768,
+    "route": "/thank-you",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 768,
+    "route": "/404",
+    "bodyFont": 18,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 1440,
+    "route": "/",
+    "bodyFont": 20.36,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": [
+      {
+        "deltaY": 0.5037492370604468,
+        "line": true,
+        "lineWidth": 205.78651220703125
+      },
+      {
+        "deltaY": 0.5037492370604468,
+        "line": true,
+        "lineWidth": 205.8119938964844
+      },
+      {
+        "deltaY": 0.5037492370604468,
+        "line": true,
+        "lineWidth": 205.78651220703125
+      },
+      {
+        "deltaY": 0.5037492370604468,
+        "line": false,
+        "lineWidth": null
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "/about",
+    "bodyFont": 20.36,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 1440,
+    "route": "/services",
+    "bodyFont": 20.36,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": [
+      {
+        "deltaY": 0.5037492370604468,
+        "line": true,
+        "lineWidth": 177.1129969482422
+      },
+      {
+        "deltaY": 0.5037492370604468,
+        "line": true,
+        "lineWidth": 177.1125091552734
+      },
+      {
+        "deltaY": 0.5037492370604468,
+        "line": true,
+        "lineWidth": 177.1129969482422
+      },
+      {
+        "deltaY": 0.5037492370604468,
+        "line": false,
+        "lineWidth": null
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "/projects",
+    "bodyFont": 20.36,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 1440,
+    "route": "/projects/education-facility",
+    "bodyFont": 20.36,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 1440,
+    "route": "/project-progress",
+    "bodyFont": 20.36,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 1440,
+    "route": "/credentials",
+    "bodyFont": 20.36,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 1440,
+    "route": "/contact",
+    "bodyFont": 20.36,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 1440,
+    "route": "/privacy",
+    "bodyFont": 20.36,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 1440,
+    "route": "/thank-you",
+    "bodyFont": 20.36,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 1440,
+    "route": "/404",
+    "bodyFont": 20.36,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 2560,
+    "route": "/",
+    "bodyFont": 27.64,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": [
+      {
+        "deltaY": 0.5024992370604195,
+        "line": true,
+        "lineWidth": 379.0370183105469
+      },
+      {
+        "deltaY": 0.5024992370604195,
+        "line": true,
+        "lineWidth": 379.0625
+      },
+      {
+        "deltaY": 0.5024992370604195,
+        "line": true,
+        "lineWidth": 379.0370183105469
+      },
+      {
+        "deltaY": 0.5024992370604195,
+        "line": false,
+        "lineWidth": null
+      }
+    ]
+  },
+  {
+    "width": 2560,
+    "route": "/about",
+    "bodyFont": 27.64,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 2560,
+    "route": "/services",
+    "bodyFont": 27.64,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": [
+      {
+        "deltaY": 0.5024992370604195,
+        "line": true,
+        "lineWidth": 329.53701831054684
+      },
+      {
+        "deltaY": 0.5024992370604195,
+        "line": true,
+        "lineWidth": 329.5625
+      },
+      {
+        "deltaY": 0.5024992370604195,
+        "line": true,
+        "lineWidth": 329.53701831054684
+      },
+      {
+        "deltaY": 0.5024992370604195,
+        "line": false,
+        "lineWidth": null
+      }
+    ]
+  },
+  {
+    "width": 2560,
+    "route": "/projects",
+    "bodyFont": 27.64,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 2560,
+    "route": "/projects/education-facility",
+    "bodyFont": 27.64,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 2560,
+    "route": "/project-progress",
+    "bodyFont": 27.64,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 2560,
+    "route": "/credentials",
+    "bodyFont": 27.64,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 2560,
+    "route": "/contact",
+    "bodyFont": 27.64,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 2560,
+    "route": "/privacy",
+    "bodyFont": 27.64,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 2560,
+    "route": "/thank-you",
+    "bodyFont": 27.64,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  },
+  {
+    "width": 2560,
+    "route": "/404",
+    "bodyFont": 27.64,
+    "editorialNotes": false,
+    "h1": 1,
+    "overflow": false,
+    "process": []
+  }
+]
