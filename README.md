@@ -100,4 +100,3 @@ Official platform references checked for this implementation:
 - [Scheduled Worker triggers](https://developers.cloudflare.com/workers/configuration/cron-triggers/)
 
 Font licenses are included in `public/assets/LICENSE-*.txt`. Photographs and company branding remain the owner's materials.
-

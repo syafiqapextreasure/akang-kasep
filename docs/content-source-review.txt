@@ -1,0 +1,125 @@
+AKANG KASEP - ABOUT PAGE REVISION 2
+Review date: 21 November 2026
+Purpose: Restore substantive company-profile information omitted by the first About mockup.
+Status: Static visual design and source-based copy, not a published website.
+
+SOURCE
+C:\Users\user\Desktop\AKANG KASEP COM. PRO. LATEST APRIL2026.pdf
+Page references below are physical PDF pages (1-23), not printed page labels.
+The cover says 2024/25; the embedded SSM extract is dated 10 April 2026.
+This review checks the supplied document, not live registries.
+
+DESIGN DECISION
+One expanded About webpage, represented in two continuous image panels for readability.
+Panel 1: header, hero, ownership/incorporation/G7 facts, company story/history, strengths, director's message.
+Panel 2: organisation structure, company information, credential overview, enquiry CTA and footer.
+Owner correction on 21 November: past-experience records belong in the Projects list, not About. They have been moved to Projects beside the ongoing project.
+Warm Architectural theme retained: ivory, forest green, orange, editorial serif headings.
+Original blue/orange logo appears once in the header. Footer uses text only.
+Only photo 03 appears, once in the hero. No source photo repeats across the two panels.
+The historic projects use text rows so ongoing-project photos are not associated with different contracts.
+
+CONTENT RESTORED AND SOURCES
+
+1. Company identity and background (pages 2, 9)
+Akang Kasep Sdn. Bhd.
+Registration: 201201001255 (974779-V).
+Incorporated in Terengganu on 11 January 2012.
+Fully Bumiputera-owned according to the profile.
+Construction and maintenance are the stated business activities.
+The company's aim is innovative and creative solutions using technology and management techniques.
+
+2. Corporate history (pages 7-9)
+Previous name: Agenda Tarbus Sdn. Bhd.
+Name changed to Akang Kasep Sdn. Bhd. on 20 May 2020.
+The date is a corporate name-change event, not a construction milestone.
+
+3. Strengths (page 3)
+Dedicated local professionals with diverse experience.
+Technical knowledge and project management experience.
+Commitment to service quality and beneficial client relationships.
+Focus on quality and project timelines; no guaranteed delivery or performance claims added.
+Website copy paraphrases the source and corrects its grammar.
+
+4. Director's message and identity (pages 5, 6, 11)
+Message covers ambition, quality, client timelines, valuing people and teamwork.
+The rewritten passage is a paraphrase, labelled as adapted from the company profile; it is not a verbatim quotation.
+The 10 April 2026 SSM directors/officers extract names MUHAMAD FIRDAUS BIN MOHAMMAD as director, appointed 27 February 2025.
+The organisation chart uses that spelling. The narrative message spells the first name MOHAMAD.
+Revision uses the spelling in the dated SSM extract: Muhamad Firdaus Bin Mohammad.
+Page 4 instead lists Mohamad Hamdan Bin Ahamad Ltif. This is inconsistent with the newer SSM extract and needs the owner's correction in the source profile.
+No portrait has been invented.
+
+5. Organisation structure (page 6)
+Role-based visual chart preserves the source's company functions and technical disciplines:
+- Director
+- Account Executive; Admin cum HR Executive; Quantity Surveyor; Project Manager
+- Assistant Engineer; Senior Engineer; Electrical Engineers; Civil Engineer; Mechanical Engineer; Chargeman B0
+- PW4 Technicians
+The mockup groups related engineering roles to keep the page readable. It does not claim a current staff count.
+The production CMS can hold the detailed named roster after the owner confirms current roles and preferred name spellings.
+The source roster is not replaced with invented people, new departments or generic stock portraits.
+
+6. Company details (pages 4, 9-11)
+Office: No. 3A, Tingkat 1, Bangunan Residensi Kodika, Lot 1298, Kampung Pulau Rusa, 20050 Kuala Terengganu, Terengganu.
+Telephone: 09-6227587.
+Email: akangkasep.aksb@gmail.com.
+Secretary: Nor Azrina Binti Azmi (MIA 32466).
+Auditor: Messrs. Azmi Ismail & Co., Chartered Accountants, Malaysia.
+Banker: Affin Bank Berhad, Setapak, Kuala Lumpur. Account details omitted.
+Issued share capital: RM10,000,000 according to the SSM extract dated 10 April 2026, physical page 10.
+
+CAPITAL CORRECTION / REVIEW POINT
+The older narrative company-information page 4 says paid-up capital RM1,000,000.00.
+The dated SSM share-capital summary page 10 says total issued capital RM10,000,000, all ordinary shares/cash.
+The mockup explicitly labels the latter 'Issued share capital' and cites its SSM extract date. It does not silently relabel that figure as paid-up capital.
+Confirm the current capital description before publishing. Earlier planning notes reporting RM1 million should be read with this correction.
+
+7. Credential overview (pages 14-21)
+CIDB G7, categories B (Building), CE (Civil Engineering), ME (Mechanical and Electrical).
+SPKK: government work procurement registration.
+STB: Bumiputera status.
+MOF: supplier registration in the listed fields.
+CIDB SCORE: 3 Star for 2025.
+Detailed records belong on Credentials, linked from About. No official certification seal is invented.
+Dates shown in supplied copies:
+- MOF: 6 November 2025 to 5 November 2028.
+- CIDB and SPKK: 10 November 2025 to 25 August 2028.
+- STB: 10 September 2025 to 25 August 2028.
+- SCORE 2025: valid until 8 May 2027.
+These are document dates, not a claim of a live registry check. The many MOF fields are registration scope, not automatic evidence that every service is currently offered.
+
+8. Past experience (page 22)
+Displayed on the revised Projects list as text-only historic entries, alongside the separate ongoing project:
+A. Maintenance and related works at Quarters 18R12 and 18R13, Precinct 18, Putrajaya, for three years.
+   Client: Perbadanan Putrajaya. Value: RM13,589,400. Profile date: June 2022.
+B. Supply, delivery, installation and completion of kitchen equipment, kitchen hoods, fume extraction and LPG installation for the Paralympic Sports Excellence Centre at Kompleks Sukan Kg. Pandan, Kuala Lumpur.
+   Client: SPA Integrated Sdn. Bhd. Value: RM279,020. Profile date: August 2012.
+The source does not define those dates as contract commencement or completion; the mockup says 'Profile date'.
+Not used in the public-facing mockup yet:
+C. AMSTEK factory building repairs, Jalan Tandang, Petaling Jaya, Selangor.
+   Client: AMSTEK Sdn. Bhd. Value: RM90,950. Profile date: July 2009.
+   This predates incorporation in January 2012. Clarify whether it is predecessor or team experience before attributing it to this company.
+The record is retained here instead of being silently lost.
+
+WHOLE-PROFILE COVERAGE / WEBSITE PLACEMENT
+Page 1: company identity -> site header and company story.
+Page 2: About -> company story and facts.
+Page 3: Our Strength -> strengths section.
+Page 4: Company Info -> company table; director/capital differences recorded above.
+Page 5: From the Director -> adapted message with dated SSM name spelling.
+Page 6: Organisation Chart -> role-based structure; named roster available for future owner-confirmed CMS content.
+Pages 7-8: name-change/incorporation documents -> company history; public-safe evidence on Credentials.
+Page 9: SSM corporate information -> registration, address, business and history.
+Page 10: share capital -> accurately labelled dated figure.
+Page 11: directors/officers -> director and secretary business names; personal IDs and home addresses excluded.
+Page 12: shareholders -> ownership context only; detailed personal shareholding records not placed on the public webpage.
+Page 13: financial summary -> not public marketing-page content; not reproduced.
+Pages 14-17: MOF -> brief About overview; categories/details on Credentials.
+Pages 18-21: CIDB/SPKK/STB/SCORE -> brief About overview; full public-safe information on Credentials.
+Page 22: past experience -> two detailed entries on Projects, not About; third entry held with stated attribution issue.
+Page 23: original logo -> original asset used as the generation reference and retained for implementation.
+
+IMPLEMENTATION NOTE
+Use this factual copy and the original logo/photo assets when building the site. Generated raster lettering and artwork are design previews, not authoritative data. Do not offer the unredacted source PDF as a public download: it includes personal identifiers, residential addresses, bank account details and financial information.
+This revision changes the About design and its content requirements; the URL remains /about and the sitemap does not gain a second About page.

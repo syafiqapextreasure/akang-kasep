@@ -1,0 +1,123 @@
+AKANG KASEP - IMPLEMENTATION VISUAL BASELINE
+21 November 2026
+
+ALL 12 CURRENT PANELS HAVE BEEN VISUALLY REVIEWED.
+Source: output/AKANG-KASEP-CURRENT-DESIGNS-2026-11-21/Pages.
+This is a baseline audit, not a claim that an implementation has passed.
+
+Typography
+The artwork is generated raster, so no exact font metadata exists. Compare DM Serif Display 400 first against Libre Caslon Text 700 / Libre Caslon Display; the reference uses a strong, high-contrast bracketed serif. Manrope 400/500 is a close body candidate. Serif is also used in navigation, buttons and italic captions. Display tracking is tight (-0.035em to -0.055em), body tracking normal.
+Use body text around18px phone,20-21px at1440,22-23px at1920,25-26px at2560. Suggested root scale: clamp(18px,calc(12px + .55vw),26px). Keep body line-height1.5. Do not retain tiny raster labels literally. Headings must scale with desktop rather than remain fixed.
+Use about90% viewport content width, capped around2200px; individual prose blocks remain60-75ch.
+
+Palette and motifs
+Sampled Home dominant paper#F9F2EB; pale alternate band#F3E8DD. Forest CTA samples#1A443C/#174039. Orange samples#D36106/#DD6207. Thin muted taupe hairlines. Background subtly mottled, not flat white. Sharp rectangular cards/buttons. Angled status ribbons, clipped hero seams, orange line icons, circular numbered process steps and understated grain are essential.
+Header at1024 is about90px tall, logo120x75, body margins5.2-7%. One logo in header; text-only footer. Avoid generic rounded-card substitutions.
+
+Page-by-page
+Home
+  - Header; centered two-line display title; one-line supporting text and paired buttons.
+  - Hero mosaic approx x53-971,y305-574; photo9 left73%, photo17 right27%; diagonal seam and diagonal lower caption ribbon with orange Ongoing tag, serif project title and italic Working title.
+  - Intro/services band y600-720: narrow eyebrow vertical divider, serif intro and body left; two-by-two numbered service links right.
+  - Pale Before & After band y744-1088: title, three equal images12/8/7 about2.3:1, italic stage captions, orange rail/circles, centered round play button and project link.
+  - Feature row y1102-1264: classroom6 left43%, project title/status/copy right57%, vertical divider.
+  - Compact four-step process strip, credentials strip, forest CTA y1397-1498 and text footer.
+  Acceptance: Two-line headline composition retained; Hero slants and caption ribbon preserved; Six distinct photos appear once each; Process and credentials strips not expanded into oversized cards; CTA texture and orange underline present
+
+About
+  - Treat as ONE page. Upper panel is836px wide, lower1024; normalize widths before comparison rather than inserting them as images or copying mismatched typography.
+  - Header/breadcrumb plus compact section-anchor row.
+  - Hero left text about40%, right photo3 about60%; photo has slanted left boundary. Title aboutfour lines in source. Two buttons.
+  - Full-bleed three-column fact band: 11 January2012 /100%Bumiputera /CIDBG7B,CE,ME.
+  - Our story paragraphs plus horizontal two-date corporate-history line.
+  - Four strengths in2x2 grid separated by horizontal/vertical hairlines; orange numbers.
+  - Full-bleed forest director message with thin orange rule and attribution.
+  - Role chart: Director -> AccountExecutive/AdminHR/QuantitySurveyor/ProjectManager; ProjectManager -> engineering groups/ChargemanB0; ONLY ChargemanB0 -> PW4Technicians.
+  - Corporate information ten-row table; pale label column; full office/email and accurately labelled issued capital.
+  - Five credential columns, note and details link; closing forest CTA/footer. No past-experience section.
+  Acceptance: Both panels' content included in one route; Source company data not reduced to generic filler; No duplicated logo midpage; Role connector hierarchy correct; Historical contracts excluded from About; Exactly one use of photo3
+
+Services
+  - Centered title/subtitle and four text anchors separated by forward slashes.
+  - Four alternating photo/text rows, approx50/50. Row1 photo18 left; row2 photo11 right; row3 photo7 left; row4 photo6 right.
+  - Rows divided by hairline, approx205px height at1024; images around440x205. Thin vertical line between text and image.
+  - Each service: orange italic number, strong serif title, short body, three square-orange bullet items and orange enquiry button.
+  - Row4 photo has pale angled Project interior caption in bottom-right.
+  - Pale process strip, forest CTA/footer.
+  Acceptance: Alternating row rhythm preserved; Do not convert to generic equal service cards; Four source photos appear once each; Small square bullet markers, row rules and process circles present
+
+Projects
+  - Centered title/subtitle with three rectangular filter controls.
+  - Pale featured project block x48-978,y357-735; photo5 left58%, text42%, vertical divider; orange angled Ongoing tag, title, italic Working title, copy and two actions.
+  - Two text-only historical rows underneath, numbered02/03 orange; row2 Putrajaya maintenance; row3 Paralympic kitchen systems.
+  - Historical facts use two columns: client/date left and value/scope right. Profile date must not become completion date.
+  - Small italic source caption, forest CTA/footer. No extra supporting image gallery from obsolete Projects page.
+  Acceptance: Uses current04-projects-v2 composition; Includes both historical contracts and exact values; No borrowed ongoing photos on historic contracts; Filter controls work and show empty state when needed; One use of photo5
+
+Project detail
+  - Left breadcrumb/title; Working title italic and outlined Ongoing chip; one-line description.
+  - Wide photo10 approxx72-953,y261-571, aspect2.84:1; building corner and staircase dominate crop.
+  - Pale metadata bar under image: status/category separated by vertical line.
+  - Two-column overview/highlights with divider; highlights numbered orange rows.
+  - Pale full-width Details from the site section,2x2 gallery14/12/8/6, photos approx2.3:1, centered italic captions.
+  - Orange top-rule/heading progress CTA strip; forest final CTA/footer.
+  Acceptance: Hero uses photo10, not home/project-list hero; Five photos distinct within route; Gallery positions/captions match reference; Ongoing status retained despite finished-looking images
+
+Before & After
+  - Breadcrumb; left display title/subtitle; ongoing project ribbon.
+  - Primary stage image11 approxx63-961,y335-721, aspect2.33:1; pale angled Latest stage tab bottom-left.
+  - Four stage labels Foundation/Structure/Envelope/Latest view; orange progress line and circles, selected latest orange.
+  - Centered outlined Previous/Next controls around round orange Play control.
+  - Pale Earlier stages strip with three equal photos14/17/3, numbers/titles/descriptions divided by vertical lines.
+  - Project link row, forest CTA/footer.
+  Acceptance: Actual animated stage sequence and pause/manual controls; Different viewpoints use transitions, not false pixel-matched before-after slider; Selected image must not also appear as a repeated visible thumbnail on same page; Descriptive stage labels and ongoing status; Keyboard/reduced-motion behavior
+
+Credentials
+  - Left title/subtitle/source note.
+  - Pale corporate identity band with orange document outline icon left, vertical separator and company/registration right.
+  - Two-by-two bordered certificate cards (CIDB/SPKK/STB/MOF) then full-width SCORE card.
+  - Small slanted orange bar at top-left of each card. Serif titles, orange classification/subtitle, short body, outlined details button.
+  - Latest documents CTA strip and small validity note; forest CTA/footer.
+  Acceptance: All five credential entries present; Original outline-document motif retained; No invented seal or certificate scan; Details controls provide source-based detail without leaking personal identifiers; No hero photo added
+
+Contact
+  - Header, breadcrumb and large left title/subtitle.
+  - Main form band approximatelyy270-900. Left contact column about42%, right form58%, vertical line.
+  - Left: company name, small orange rule, orange outline phone/envelope/pin icons with full contact details.
+  - Right: name/company, side-by-side email/phone with either/or note, service selector, location, brief textarea, privacy checkbox and orange submit.
+  - Full-width overhead photo4 below form, approx2.85:1; italic gallery caption and explore link.
+  - Compact forest Prefer a conversation? strip with outlined Call Us/Email Us, text footer. No second generic DiscussYourProjectCTA.
+  Acceptance: Form and contact details readable; Correct original phone/email/address; One contact method required, not both; Submission success only after real acceptance; Distinct outline icons, no generic substitutes; Photo4 once and actual crop preserved
+
+Privacy
+  - Large left title, angled Draft for review tag and summary.
+  - Horizontal rule then contents sidebar about26%, main content74%, vertical separator.
+  - Six numbered sections: Information you provide; How information is used; Service providers; Keeping information; Your enquiries; Contact.
+  - Pale full-width draft-note band, Back to Home link, footer. No forest CTA.
+  Acceptance: Contents anchors and sidebar present; Actual data practices must replace draft placeholders for production; No repeated photos added; Readable legal text and no giant fixed whitespace after last section
+
+Enquiry confirmation
+  - Header then centered bordered confirmation panel atx76-1123,y229-777.
+  - Orange circular check, large serif heading, two-line body, side-by-side primary/secondary actions.
+  - Three circles with thin orange envelope/document/chat icons and connecting hairlines; labels beneath.
+  - Small contact follow-up line; footer. Page intentionally calmer than marketing pages.
+  Acceptance: No success claim without real submit result; Original three-step icon sequence and check present; No invented turnaround promise; Enough spacing for clarity but no forced blank extra viewport
+
+404
+  - Header; central giant pale beige404; thin orange rule; large serif not-found title and description.
+  - Paired centered actions.
+  - Full-width pale navigation strip with three links Services/Credentials/Contact and vertical dividers.
+  - Text footer. No photograph or forest CTA.
+  Acceptance: Actual404status,notsoft200; Large watermark-like404 and orange rule; Both main recovery buttons plusthree navigation links; Responsive no horizontal overflow
+
+Photo plan
+Home9+17 hero; About3 hero; Services18 leading image; Projects5 featured image; project detail10 hero; BeforeAfter11 leading stage; Contact4 gallery panorama. These hero/leading sources are already unique.
+Supporting IDs: Home12/8/7/6; Services11/7/6; detail14/12/8/6; BeforeAfter14/17/3. The user's gallery exception permits reuse between gallery/stage contexts, but NEVER duplicate a visible source photo within one page. When stage viewer swaps to an earlier image, hide/replace its matching thumbnail from the visible earlier-stage list.
+Credentials, privacy and system states intentionally contain no photo hero. Do not insert generic stock photography just to force a hero into every page.
+
+Motion and responsiveness
+Keep the approved image frame/crop stable. Parallax should move inside that frame; hover zoom about1.03. Reveal12-20px over250-450ms, not huge theatrical entrance motion. Make play/pause/manual controls and reduced motion real. Phone uses stacked columns, accessible menu and readable org hierarchy; minimum44px touch targets. Do not scale the entire desktop screenshot into a tiny phone layout.
+
+Comparison order
+First compare against references at1024 width (normalize About upper836 to the same implementation width). Then test1440,1920,2560 desktop;768/1024tablet;390/430phone. Audit every page for missing elements, crop, font proportions, background/decor, spacing and icon geometry. Correct visuals before final functional checks. Use side-by-side screenshots and record remaining deliberate accessibility changes. A claim of 100% pixel identity is not defensible when raster type has no verified font source and the user requires larger text.
+

@@ -1,0 +1,150 @@
+AKANG KASEP - SEARCH RESEARCH / 21 NOVEMBER 2026
+
+Purpose: SEO, AEO and GEO implementation guidance for the approved design.
+Priorities are qualitative and based on service relevance, local intent and official competitor evidence. No measured search volumes, CPC, keyword difficulty or ranking position are claimed.
+
+POSITIONING
+A construction and maintenance company based in Kuala Terengganu, with source-backed company credentials, documented historical experience and an ongoing project shown through genuine progress photography.
+
+PAGE KEYWORD MAP
+Home (/) - P1; Local commercial discovery
+Primary English: construction and maintenance company Kuala Terengganu
+Primary BM: syarikat pembinaan dan penyelenggaraan Kuala Terengganu
+Related English: building contractor Terengganu; construction company Kuala Terengganu
+Related BM: kontraktor pembinaan Kuala Terengganu; kontraktor bangunan Terengganu
+Suggested title: Akang Kasep | Construction & Maintenance, Kuala Terengganu
+Suggested description: Akang Kasep Sdn. Bhd. is a construction and maintenance company based in Kuala Terengganu. Explore our services, credentials and project experience.
+Placement: Keep the approved hero headline. Use the locality and core service phrase in the introductory paragraph and page title; do not force all variants into the hero.
+
+About (/about) - P1 brand / P2 generic; Business verification
+Primary English: Akang Kasep Sdn Bhd
+Primary BM: profil syarikat Akang Kasep
+Related English: Akang Kasep company profile; Bumiputera construction company Terengganu
+Related BM: syarikat kontraktor Bumiputera Terengganu
+Suggested title: About Akang Kasep | Kuala Terengganu Construction Company
+Suggested description: Learn about Akang Kasep's company background, people, construction and maintenance focus, and corporate information in Kuala Terengganu.
+Placement: Use consistent legal name and registration number, genuine history and clear business/contact facts. Keep historical project entries on Projects.
+
+Services (/services) - P1; Service-scope evaluation
+Primary English: building maintenance contractor Terengganu
+Primary BM: kontraktor penyelenggaraan bangunan Terengganu
+Related English: building construction services Kuala Terengganu; construction and maintenance services
+Related BM: perkhidmatan pembinaan bangunan Kuala Terengganu; kerja penyelenggaraan bangunan
+Suggested title: Construction & Maintenance Services | Akang Kasep
+Suggested description: Explore Akang Kasep's construction and maintenance services, including building works and coordinated project scopes. Discuss your project requirements.
+Placement: Use precise service headings and concise scope descriptions. Civil/external and selected M&E descriptions must stay within approved scopes; registration categories alone do not establish every currently offered service.
+
+Projects (/projects) - P1 proof / P2 discovery; Evidence and portfolio review
+Primary English: Akang Kasep projects
+Primary BM: projek Akang Kasep
+Related English: building construction project progress; building maintenance project experience
+Related BM: kemajuan projek pembinaan; pengalaman projek penyelenggaraan bangunan
+Suggested title: Construction & Maintenance Projects | Akang Kasep
+Suggested description: View Akang Kasep's ongoing project photographs and selected experience in quarters maintenance and specialist kitchen, ventilation and LPG works.
+Placement: Show exact client, scope, value and labelled profile date for historical entries; ongoing Project A retains its working-title and Ongoing labels. Do not use unrelated photos for historic contracts.
+
+Contact (/contact) - P1; Enquiry / navigation
+Primary English: Akang Kasep contact
+Primary BM: hubungi Akang Kasep
+Related English: construction enquiry Kuala Terengganu; building maintenance enquiry Terengganu
+Related BM: pertanyaan kontraktor Kuala Terengganu; sebut harga penyelenggaraan bangunan
+Suggested title: Contact Akang Kasep | Kuala Terengganu
+Suggested description: Contact Akang Kasep Sdn. Bhd. in Kuala Terengganu to discuss construction or maintenance requirements. Find our office, telephone and enquiry details.
+Placement: Keep address, email and phone consistent with approved current copy. No invented office hours, WhatsApp capability, response-time promise or service-area map.
+
+Credentials (/credentials) - P2 verification; Procurement / credentials checking
+Primary English: Akang Kasep CIDB G7
+Primary BM: pendaftaran CIDB Akang Kasep
+Related English: Akang Kasep company registration; Akang Kasep contractor credentials
+Related BM: sijil kontraktor Akang Kasep
+Suggested title: Company Credentials & Registration | Akang Kasep
+Suggested description: Review company registration and credential information documented in Akang Kasep's profile, including CIDB, SPKK, STB, MOF and SCORE details.
+Placement: Label document dates and expiry details accurately, expose only public-safe information, and do not imply a live registry check.
+
+COMPETITOR COMPARISON SET
+WAA BINA (M) SDN. BHD. - Direct local construction comparison
+Official source: https://waabina.com/about-us/ (retrieved 2026-11-21)
+Observed: Kuala Terengganu address; describes civil/building construction, road and general maintenance work and G7 registration.
+Website content: Navigation separates services, projects, organisation, machinery and certifications.
+Our inference: Make Akang Kasep's construction-to-maintenance proposition and documented progress easy to understand in a similarly verifiable but visually distinct presentation.
+Limit: Self-described credentials, not independently registry-verified.
+
+GPQ Sdn. Bhd. - Regional construction benchmark
+Official source: https://www.gpqsb.com.my/corporate-profile/about-us (retrieved 2026-11-21)
+Observed: Kuala Terengganu contact address; identifies itself as a Terengganu Incorporated subsidiary and G7 contractor with building, housing, highway and infrastructure experience.
+Website content: Provides corporate history, regional project scope and clear group/business context.
+Our inference: Use Akang Kasep's own named experience and practical service scope rather than trying to claim the same group scale or breadth.
+Limit: A benchmark with a different corporate scale; not proof the companies compete for identical tenders.
+
+Building Lindungan Sdn. Bhd. - Adjacent East Coast building-maintenance comparison
+Official source: https://www.buildinglindungan.com/company-profile-mission/ (retrieved 2026-11-21)
+Observed: Describes building/facilities maintenance involving Kelantan, Terengganu and Pahang, with engineering, security, landscape, cleaning and pest-control functions; listed office in Kota Bharu.
+Website content: Explains maintenance scope and has a list-of-buildings navigation item.
+Our inference: Give maintenance equal visibility to construction and use the documented Putrajaya quarters contract as specific experience.
+Limit: Its page mentions an extension only through March 2026; do not repeat that as a presently active contract.
+
+AMJ Technique Sdn. Bhd. - Adjacent Terengganu civil-maintenance / industrial-services comparison
+Official source: https://www.amjtechnique.com/index.html (retrieved 2026-11-21)
+Observed: States it was established in Kemaman; service list includes civil building maintenance, structure/piping fabrication, installation/welding and tank work.
+Website content: Uses a direct service list with a company-profile link.
+Our inference: Explain the actual boundaries of Akang Kasep's services clearly, without copying unrelated industrial capabilities.
+Limit: Indexed and opened versions showed differing contact details, so no contact address or phone is reproduced here; service positioning only.
+
+IMPLEMENTATION PRIORITIES
+P1: Render the main company, service and project copy as crawlable HTML. Use a unique descriptive title and meta description per page, a coherent H1/H2 outline and crawlable internal links. Sources: google-essentials, google-ai-features.
+P1: Use one canonical public host and clean extensionless routes. Redirect obsolete .html paths, publish a sitemap of actual indexable URLs and return real 404 status for unknown pages. The final production host must be configured; do not ship example.com canonicals. Sources: google-essentials, bing-guidelines.
+P1: Add accurate Organization JSON-LD with legal name, logo, registration identifier, address and contact details. Add BreadcrumbList on interior pages. Markup must match visible content; omit invented sameAs profiles, aggregate ratings, geo coordinates, office hours and coverage areas. Sources: google-organization, google-breadcrumb, google-ai-features.
+P1: Use original, relevant project imagery with descriptive alt text and captions; decorative shapes use empty alt text or CSS. Keep important headings and copy out of image-only artwork. Sources: google-ai-features, google-ai-guide.
+P1: Answer buyer questions clearly within existing approved sections: what the company does, where it is based, how to enquire, what experience is documented and how project progress is shown. Preserve the design instead of adding keyword-stuffed blocks. Sources: google-ai-guide, bing-ai-performance.
+P1: Keep body copy and controls readable across large desktop, tablet and phone; support keyboard navigation, reduced motion, stable layouts and fast images. This is a usability requirement as well as search groundwork. Sources: google-ai-guide.
+P2: After deployment, verify the real domain in Google Search Console and Bing Webmaster Tools, submit the sitemap and check crawl/index eligibility. Review the current Search Console generative-AI inclusion setting referenced by Google's newer guidance. No account setup performed in this research. Sources: google-ai-guide, bing-guidelines.
+P2: Keep Google Business Profile and Bing Places facts consistent with the published site if the owner manages those profiles. Do not invent profile links or opening hours. Sources: google-ai-guide, bing-ai-announcement.
+P2: Measure enquiries, search impressions/clicks and available AI-citation reports separately. A citation is not a site visit or a qualified enquiry. Sources: bing-ai-performance.
+P2: Use English for the approved English design. The BM keyword map supports a later complete, accurate Malay version; add hreflang only when real equivalent translated URLs exist. Sources: google-essentials.
+
+AVOID
+- No rankings, traffic, leads or AI-citation guarantees.
+- No meta-keywords tag as a claimed Google ranking tactic.
+- No hidden keyword text, copied competitor copy, location doorway pages or unsupported service claims.
+- No requirement to add llms.txt or special AI schema for Google visibility.
+- No blanket promise of FAQ rich results; the previously documented FAQ page redirected to Google's updates page during this research.
+- Do not call source-based qualitative keyword prioritization measured keyword research.
+
+CONDITIONAL / EXCLUDED KEYWORDS
+best contractor Terengganu; No. 1 contractor; cheapest contractor - Unsupported comparative or price claims.
+luxury home builder; bungalow design and build; house renovation specialist - The supplied profile does not establish those specific current offers.
+24-hour emergency maintenance; nationwide facilities management; ISO-certified contractor - No verified source for availability, geographic coverage or ISO certification.
+LPG installation contractor Kuala Terengganu; commercial kitchen installer Terengganu - Historical specialist project evidence exists, but current saleable service scope/licensing needs confirmation before targeting as an active standalone offer.
+
+SOURCES
+google-essentials: Google Search Essentials
+https://developers.google.com/search/docs/essentials
+Retrieved 2026-11-21
+google-starter: Google SEO Starter Guide
+https://developers.google.com/search/docs/fundamentals/seo-starter-guide
+Retrieved 2026-11-21
+google-ai-features: Google AI features and your website
+https://developers.google.com/search/docs/appearance/ai-features
+Retrieved 2026-11-21
+google-ai-guide: Optimizing your website for generative AI features on Google Search
+https://developers.google.com/search/docs/fundamentals/ai-optimization-guide
+Retrieved 2026-11-21
+google-organization: Organization structured data
+https://developers.google.com/search/docs/appearance/structured-data/organization
+Retrieved 2026-11-21
+google-breadcrumb: Breadcrumb structured data
+https://developers.google.com/search/docs/appearance/structured-data/breadcrumb
+Retrieved 2026-11-21
+bing-guidelines: Bing Webmaster Guidelines
+https://www.bing.com/webmasters/help/webmaster-guidelines-30fba23a
+Retrieved 2026-11-21; Official indexed text retrieved; direct page requires JavaScript.
+bing-ai-performance: Bing AI Performance
+https://www.bing.com/webmasters/help/ai-performance-9f8e7d6c
+Retrieved 2026-11-21
+bing-ai-announcement: Introducing AI Performance in Bing Webmaster Tools
+https://blogs.bing.com/webmaster/2026/2/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview/
+Retrieved 2026-11-21
+
+COPY LIMITS
+Company facts are from the supplied profile, reviewed in design-concepts/akang-kasep-selected-theme/about-v2-source-coverage.txt. Service area and current certification status have not been independently verified. Keep SSM issued capital distinct from the conflicting older paid-up figure. Historical profile dates are not completion dates. Do not publish the unredacted profile containing personal and account details.
+No website code, publication, profile-account change or outreach was performed by this research task.

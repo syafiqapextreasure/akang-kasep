@@ -1,0 +1,1529 @@
+{
+  "preparedOn": "2026-11-21",
+  "policy": "Original photography is preserved. Full-size WebP files use lossless encoding and decode to the exact original RGB pixels. Responsive files resize without upscaling, then use lossless encoding. No AI reconstruction, retouching or fabricated architectural details.",
+  "photos": [
+    {
+      "id": 1,
+      "source": "owner-supplied/project-photos/01-campus-aerial-scaffolding.png",
+      "originalBytes": 1482966,
+      "originalWidth": 1080,
+      "originalHeight": 608,
+      "originalFileSha256": "a917fd01cc994ef9e8d5216b358fbe6e3f732c1d14321e32518056c90062d191",
+      "originalRgbSha256": "784d23a6f349f515d0b42823185457c3c556a5e6c903955661c8a9e872e74068",
+      "outputs": [
+        {
+          "file": "/assets/image-01.webp",
+          "bytes": 831064,
+          "width": 1080,
+          "height": 608,
+          "sha256": "6649fe1169bc64f7cda25ba1225a2655cdf5e1d5bcc8d233e85bf1acac84b218",
+          "rgbSha256": "784d23a6f349f515d0b42823185457c3c556a5e6c903955661c8a9e872e74068",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": true,
+          "operation": "Lossless WebP transcode only"
+        },
+        {
+          "file": "/assets/image-01-768.webp",
+          "bytes": 474156,
+          "width": 768,
+          "height": 432,
+          "sha256": "4e692eaaef76e3a17fadab4b0d7f035494bdc21baf44a97feeba53b50b504be3",
+          "rgbSha256": "a281b7b527439c1545f127ea4d6d123121fd5d1119efa661267d03515b8d93ad",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 768px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-01-480.webp",
+          "bytes": 203886,
+          "width": 480,
+          "height": 270,
+          "sha256": "846b3ee9499483c8efc32e3f701979a89557b05edf920169ac12a3e0f997bbc2",
+          "rgbSha256": "20c170fba58e100925070a7e2db8146576b6c7733c747bb6f3c29a925a5a1fe5",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 480px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-01-240.webp",
+          "bytes": 57600,
+          "width": 240,
+          "height": 135,
+          "sha256": "9d277295510e99cc637b57673749c01c4f4a07e164fbb19a8196189cf33d0c3b",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 240px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-01-320.webp",
+          "bytes": 96216,
+          "width": 320,
+          "height": 180,
+          "sha256": "a97e0ba0753ced1bda2adf8c74f66813aeb68d1b51aab861c85c1346c99c2606",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 320px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-01-640.webp",
+          "bytes": 328612,
+          "width": 640,
+          "height": 360,
+          "sha256": "3fce8bfb8b3cceaca3ca25b1c03fe53ea378a790200aedce6cff756f9d5825c2",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 640px width without upscaling, then lossless WebP"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "source": "owner-supplied/project-photos/02-roof-installation-aerial.png",
+      "originalBytes": 1421856,
+      "originalWidth": 1080,
+      "originalHeight": 607,
+      "originalFileSha256": "6027730e487ef009090f85bd1b14829d4425a68b282ac0dddde978b79895b933",
+      "originalRgbSha256": "dc521b2c5f1970aa992b8ccc9c038c288e0fc9be2381de912de0eaf3ab5d9751",
+      "outputs": [
+        {
+          "file": "/assets/image-02.webp",
+          "bytes": 830420,
+          "width": 1080,
+          "height": 607,
+          "sha256": "61a962a7951c3288f44bbe56d76c2a8679cd863afd72d484a9f0cbc95c912c2a",
+          "rgbSha256": "dc521b2c5f1970aa992b8ccc9c038c288e0fc9be2381de912de0eaf3ab5d9751",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": true,
+          "operation": "Lossless WebP transcode only"
+        },
+        {
+          "file": "/assets/image-02-768.webp",
+          "bytes": 470186,
+          "width": 768,
+          "height": 432,
+          "sha256": "da885ef53b1ae73df66bd4ff34b27f2bf7d6d8bcb3aa323d0d677bee99cbe1c1",
+          "rgbSha256": "93bd0d4b3357e0a4500e3f44bf85b618020dc1365ddede00e44ded37c166f8ac",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 768px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-02-480.webp",
+          "bytes": 200862,
+          "width": 480,
+          "height": 270,
+          "sha256": "59d010cf81c4fb80ade92fe58f0321083ce0d57e13d1622d34253b9053fdd71a",
+          "rgbSha256": "3717ac805958e1cc97f60e0f4ed4c01e8c231a1210b6266ae3dd7f9d71d97416",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 480px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-02-240.webp",
+          "bytes": 56572,
+          "width": 240,
+          "height": 135,
+          "sha256": "9e8b8b402a8f88b6dfdaf2a3a29befa72ca35ed30779cb56d15448be1a8175f1",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 240px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-02-320.webp",
+          "bytes": 94460,
+          "width": 320,
+          "height": 180,
+          "sha256": "72c0b6766154069075cfce86a6b4bbc26daf26df5a4c83a09216657c0c74cf79",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 320px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-02-640.webp",
+          "bytes": 322942,
+          "width": 640,
+          "height": 360,
+          "sha256": "2ad11b696c7b6fb5f5c85cd8ad9f31e77573f7bb9f8cd300fcb6922fad29caa1",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 640px width without upscaling, then lossless WebP"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "source": "owner-supplied/project-photos/03-campus-aerial-rear.png",
+      "originalBytes": 1473346,
+      "originalWidth": 1080,
+      "originalHeight": 608,
+      "originalFileSha256": "573bcaec71e7dd9a41e4b848d5e08fff4231a766eb2043fa39945dd72cdf90ce",
+      "originalRgbSha256": "0980662e26a1edd52c5f4d6dc6ce1d1f5d056678956ceada8048100b883dd3c4",
+      "outputs": [
+        {
+          "file": "/assets/image-03.webp",
+          "bytes": 825200,
+          "width": 1080,
+          "height": 608,
+          "sha256": "a1b6d97d51bb4c7ebb3fad91a052e06952e9b7adf99f3703554157ea18fb80d0",
+          "rgbSha256": "0980662e26a1edd52c5f4d6dc6ce1d1f5d056678956ceada8048100b883dd3c4",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": true,
+          "operation": "Lossless WebP transcode only"
+        },
+        {
+          "file": "/assets/image-03-768.webp",
+          "bytes": 471820,
+          "width": 768,
+          "height": 432,
+          "sha256": "a18e142cfd33787fc351b4b430cf029f23ef4074041a70fb3752930b6b0bb7d7",
+          "rgbSha256": "c38c00386de5798aa834c0ed698722d19d414a1fd7ed44ca05734f278e06ea84",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 768px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-03-480.webp",
+          "bytes": 203124,
+          "width": 480,
+          "height": 270,
+          "sha256": "fc7dfd4598f636e5305dea179dfb10caeb41a0708e1d82d7dbbdcead545648fd",
+          "rgbSha256": "b9e302330a79cf5d0597a7f663c0c46c6b2c29bedf47017940dcb886c050ed67",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 480px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-03-240.webp",
+          "bytes": 57458,
+          "width": 240,
+          "height": 135,
+          "sha256": "2c78730143625a8bff836e1f3661724d3ea6e3162eec65fb50a40ba0e5864a62",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 240px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-03-320.webp",
+          "bytes": 96178,
+          "width": 320,
+          "height": 180,
+          "sha256": "36aac3c96aefd8f80139b4a1f43dd9e4634ea1296a872df6464d35617d4d9373",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 320px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-03-640.webp",
+          "bytes": 328560,
+          "width": 640,
+          "height": 360,
+          "sha256": "db7ed828f323954dd81dd703dceb1c221ce8f079c150889d618448be67205bb6",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 640px width without upscaling, then lossless WebP"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "source": "owner-supplied/project-photos/04-campus-overhead.png",
+      "originalBytes": 1126971,
+      "originalWidth": 1080,
+      "originalHeight": 608,
+      "originalFileSha256": "13a5b42402cf536f351983b677edee33579d29ddedfaeeb8ad354baa34124c0a",
+      "originalRgbSha256": "b1d4adaac423c2eb989ebcbcd4411ca8047bf61eaff97eec6046914563422969",
+      "outputs": [
+        {
+          "file": "/assets/image-04.webp",
+          "bytes": 632172,
+          "width": 1080,
+          "height": 608,
+          "sha256": "47cc8140fbda8f5c64830df2cbcdcf85210037f9d04cd56f28b91fbfb40351b1",
+          "rgbSha256": "b1d4adaac423c2eb989ebcbcd4411ca8047bf61eaff97eec6046914563422969",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": true,
+          "operation": "Lossless WebP transcode only"
+        },
+        {
+          "file": "/assets/image-04-768.webp",
+          "bytes": 385574,
+          "width": 768,
+          "height": 432,
+          "sha256": "39c6bae547d32223abfc1da6afd23970dbad7a2bf7a78e7537133c3bd3cba330",
+          "rgbSha256": "da1b1f34a41f875b075946982c9be8a923139cbf77083c94de54e66772fd8e1b",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 768px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-04-480.webp",
+          "bytes": 169124,
+          "width": 480,
+          "height": 270,
+          "sha256": "70f95ae4aa58767e4d5ec0c2320b75a06429bb76a7462340efc479baaf2ed774",
+          "rgbSha256": "ecd77f9bc5491291ba0c6cf76a9738ff546b6a0674e88282829e6d3f4f129c65",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 480px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-04-240.webp",
+          "bytes": 49484,
+          "width": 240,
+          "height": 135,
+          "sha256": "630d914db873b4cbdd56673391724486ff01dd106f2180f60c17232ef2e4be16",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 240px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-04-320.webp",
+          "bytes": 80982,
+          "width": 320,
+          "height": 180,
+          "sha256": "2f74aa539d6d73ed6906ee032846434e8748c5c44c6e1f7042ff5446e3467dcc",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 320px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-04-640.webp",
+          "bytes": 269420,
+          "width": 640,
+          "height": 360,
+          "sha256": "5fe5222e71033273dbf2f5fe5726e631da5752ef8bad358e8a3e23d0c564e4a9",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 640px width without upscaling, then lossless WebP"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "source": "owner-supplied/project-photos/05-campus-exterior-aerial.png",
+      "originalBytes": 1158824,
+      "originalWidth": 1080,
+      "originalHeight": 608,
+      "originalFileSha256": "8fddb82b7d2ef6733f8218a583c684d803705bb2c97dcf4c3b958d98cecdcbb4",
+      "originalRgbSha256": "4a53ce4ef402f81150262bc028d4effe4a9018d1e4532481433bf30a1631baed",
+      "outputs": [
+        {
+          "file": "/assets/image-05.webp",
+          "bytes": 629298,
+          "width": 1080,
+          "height": 608,
+          "sha256": "884942a7605c91387c0be4b6e9fedec7a3f88a50e6c3d16f265aba72ab0fb558",
+          "rgbSha256": "4a53ce4ef402f81150262bc028d4effe4a9018d1e4532481433bf30a1631baed",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": true,
+          "operation": "Lossless WebP transcode only"
+        },
+        {
+          "file": "/assets/image-05-768.webp",
+          "bytes": 372298,
+          "width": 768,
+          "height": 432,
+          "sha256": "fd7dfaa2e0ce859d0b93724c7c34020ce82fa19f23f5ffc4ce427ed3f947da06",
+          "rgbSha256": "111c05c19b1170ac469760c1ddcfd448149c71e9d6625f5ab2c990d79178cb71",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 768px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-05-480.webp",
+          "bytes": 164666,
+          "width": 480,
+          "height": 270,
+          "sha256": "34f52360c7d8f30a004e8df669413e1ba82b2bf6f39ac392eb5de616f3e0cb1f",
+          "rgbSha256": "92aec9ec78dbb127122597b8d4ee9b03c4a086a55b7a685ab8cad0f12253584a",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 480px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-05-240.webp",
+          "bytes": 46864,
+          "width": 240,
+          "height": 135,
+          "sha256": "3b419650cdb04c49631e31fa9c0f5bef8804813b79f82c65281568a8c617a3c1",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 240px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-05-320.webp",
+          "bytes": 77818,
+          "width": 320,
+          "height": 180,
+          "sha256": "bdcbad684ebcc73217e64cf7885e5692b6101252f13ca2d0dae57e7473731bd9",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 320px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-05-640.webp",
+          "bytes": 262632,
+          "width": 640,
+          "height": 360,
+          "sha256": "4261753ad420257d467f672fb269169f3a07b0d4a1d597bd8bd6ffd03d86d560",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 640px width without upscaling, then lossless WebP"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "source": "owner-supplied/project-photos/06-classroom-interior.png",
+      "originalBytes": 797367,
+      "originalWidth": 1080,
+      "originalHeight": 810,
+      "originalFileSha256": "b4a7377cb16212669b537ae0e18bac243aa8df3e509e1ce0b1bea4c2aff8df30",
+      "originalRgbSha256": "14edeec69e06225fbe9cbae5e29a5a7b0870ad7c6f4575600b0d5e46884b93cb",
+      "outputs": [
+        {
+          "file": "/assets/image-06.webp",
+          "bytes": 394004,
+          "width": 1080,
+          "height": 810,
+          "sha256": "ac615ba67db18233a571fda2081a36666fa7829c6d4cd610cc69bb76996f43a5",
+          "rgbSha256": "14edeec69e06225fbe9cbae5e29a5a7b0870ad7c6f4575600b0d5e46884b93cb",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": true,
+          "operation": "Lossless WebP transcode only"
+        },
+        {
+          "file": "/assets/image-06-768.webp",
+          "bytes": 284954,
+          "width": 768,
+          "height": 576,
+          "sha256": "c2982d958706fe0d04b0aa49458ee4752a1ddf8da009c1269c416c99cd2b984b",
+          "rgbSha256": "a3ae3cc0a508e5dfed1fb0e90a37f529972d832120b8e5e7827955f3a7426668",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 768px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-06-480.webp",
+          "bytes": 137676,
+          "width": 480,
+          "height": 360,
+          "sha256": "0595a4532209133320f036d9cc2fb2b2624efb3ab6ef76c320ded64c14048edf",
+          "rgbSha256": "7c26316a750da5157e400f23cab96c0fe49620d69d6d4ec9bbed5bc26bd397a3",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 480px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-06-240.webp",
+          "bytes": 44340,
+          "width": 240,
+          "height": 180,
+          "sha256": "6c4e42f0fa505c8c4d8f33b3d64dab3e3e310b22865bb0b532bdd4fa2eb7651b",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 240px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-06-320.webp",
+          "bytes": 70650,
+          "width": 320,
+          "height": 240,
+          "sha256": "314d05dc54604a85e0837135ca8c90a0b0511e74f0cf41e5ed46cb7c15924707",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 320px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-06-640.webp",
+          "bytes": 218574,
+          "width": 640,
+          "height": 480,
+          "sha256": "5a08be4725c44d8e292df86f4e46ec8917fd0ed76d5c2afeddf693367e0a45c8",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 640px width without upscaling, then lossless WebP"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "source": "owner-supplied/project-photos/07-facade-staircase.png",
+      "originalBytes": 709383,
+      "originalWidth": 1080,
+      "originalHeight": 810,
+      "originalFileSha256": "fb140b69ddad4494339e5ab198bc5693b3c99ad5c0698ebbb222f84d9caff04b",
+      "originalRgbSha256": "b6d21585a03cbbf0264bf75576645ab6e2d3e16c4d6cbf07b49de8534717d9c3",
+      "outputs": [
+        {
+          "file": "/assets/image-07.webp",
+          "bytes": 347772,
+          "width": 1080,
+          "height": 810,
+          "sha256": "f1e6fc291df394df8e4b2ce836fa55172ee1d79316da24cbda3499cee09663b3",
+          "rgbSha256": "b6d21585a03cbbf0264bf75576645ab6e2d3e16c4d6cbf07b49de8534717d9c3",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": true,
+          "operation": "Lossless WebP transcode only"
+        },
+        {
+          "file": "/assets/image-07-768.webp",
+          "bytes": 251772,
+          "width": 768,
+          "height": 576,
+          "sha256": "5bda3a92c4021f6a9399e00a0b2650ee43ea3646a839402f3fd2610ae2f3d895",
+          "rgbSha256": "8f793e583b2f00cf6857013ecdd0ec8a9f0e86875bd08c68b49c8c8b6b40ce5a",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 768px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-07-480.webp",
+          "bytes": 118868,
+          "width": 480,
+          "height": 360,
+          "sha256": "5f623507df80ae53689d7f623b66ce81add96f4af8cbef3a29bf5509008d8851",
+          "rgbSha256": "ba43b2974792b89a3d617d15524a2cc9d66661b3a4175fe83dea7d2ba6f23128",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 480px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-07-240.webp",
+          "bytes": 38880,
+          "width": 240,
+          "height": 180,
+          "sha256": "8168db355f671f519b3425d2aa9451dfd43bbf816f745e64f512f4c61f13999a",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 240px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-07-320.webp",
+          "bytes": 61846,
+          "width": 320,
+          "height": 240,
+          "sha256": "05b4b092472cd3b33201221d17fb1cdb343e4d4a759fbc4b7fe53bcdaa59a8e8",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 320px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-07-640.webp",
+          "bytes": 195478,
+          "width": 640,
+          "height": 480,
+          "sha256": "4a65f45d00c177cbc5639e2e7eca6c7699691883c660b7b82b079b4331b06c7a",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 640px width without upscaling, then lossless WebP"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "source": "owner-supplied/project-photos/08-facade-scaffolding-aerial.png",
+      "originalBytes": 1542425,
+      "originalWidth": 1080,
+      "originalHeight": 608,
+      "originalFileSha256": "955fc9378e479fa3fae8584df96641963e89369d2acca4a053ae4d77c8d9f0bd",
+      "originalRgbSha256": "d1c2f4e2accd0321025791dc865562a28ab0e4e415ad724d540e56e810c26abd",
+      "outputs": [
+        {
+          "file": "/assets/image-08.webp",
+          "bytes": 891024,
+          "width": 1080,
+          "height": 608,
+          "sha256": "6bd47a5237104ed8d272f8cc8760f930cde293f0ff2da60da189bc26fd67cc10",
+          "rgbSha256": "d1c2f4e2accd0321025791dc865562a28ab0e4e415ad724d540e56e810c26abd",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": true,
+          "operation": "Lossless WebP transcode only"
+        },
+        {
+          "file": "/assets/image-08-768.webp",
+          "bytes": 498058,
+          "width": 768,
+          "height": 432,
+          "sha256": "97143cd8f82125e7fe31aa41ae14866923b85e1404d2e248d90d818203dad1c1",
+          "rgbSha256": "28a843449f691da87e802022c9e0ba4f075970ec6a4855c6b3ac94cbd1b7bb7b",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 768px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-08-480.webp",
+          "bytes": 207500,
+          "width": 480,
+          "height": 270,
+          "sha256": "0e0db6df9ce2d479c3d33353452d41cb5ef28b73ff1a2f8156a576f56022ced6",
+          "rgbSha256": "6e4026f834c09d906f9ba145e64de60896a020730cef432642d6913d47314e5b",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 480px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-08-240.webp",
+          "bytes": 58634,
+          "width": 240,
+          "height": 135,
+          "sha256": "f7f6dcb84dc244a54ba5ae43b2679a542c1fd5740a0fcfb0c3ade6e758426391",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 240px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-08-320.webp",
+          "bytes": 97500,
+          "width": 320,
+          "height": 180,
+          "sha256": "77701e27ac5d84d779230067892e76eb81ae4b778e8b25a85e39746897b3bc54",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 320px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-08-640.webp",
+          "bytes": 339740,
+          "width": 640,
+          "height": 360,
+          "sha256": "fff63bd9fbe9fa291ba0a9d6bdec29f86c74508d4b35bf065c2fa93ac17e923a",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 640px width without upscaling, then lossless WebP"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "source": "owner-supplied/project-photos/09-campus-wide-aerial.png",
+      "originalBytes": 1165945,
+      "originalWidth": 1080,
+      "originalHeight": 608,
+      "originalFileSha256": "f5829c696628ceaef7431bbcfd342d367b37b62df77cf5c3fb94b7241f7ff08e",
+      "originalRgbSha256": "58d4fb34cfcc6908769c6ccf50ca603aaf5643de65bf3e1e58c9443b66ae9531",
+      "outputs": [
+        {
+          "file": "/assets/image-09.webp",
+          "bytes": 634054,
+          "width": 1080,
+          "height": 608,
+          "sha256": "d09ed2feca410078e3606fbf3b27da4f273da59037c5c1215b956675891b2234",
+          "rgbSha256": "58d4fb34cfcc6908769c6ccf50ca603aaf5643de65bf3e1e58c9443b66ae9531",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": true,
+          "operation": "Lossless WebP transcode only"
+        },
+        {
+          "file": "/assets/image-09-768.webp",
+          "bytes": 372804,
+          "width": 768,
+          "height": 432,
+          "sha256": "96cdc3b64e36043e32a377df48083f729fd80ebf4ee82901b0468fe8541cda5a",
+          "rgbSha256": "eb8db61e971d8c1607ac60e0d081ef84edbbcd4288a6beed031b5eac89f03105",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 768px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-09-480.webp",
+          "bytes": 162568,
+          "width": 480,
+          "height": 270,
+          "sha256": "282298b0d3978f76afac4b9db0648fda119f9f6c12ae733acea95978f0156d1d",
+          "rgbSha256": "3f112e185db5539ff72c38ab0e5e671cda5c82f86e9e1fa63c358612dbdcbd92",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 480px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-09-240.webp",
+          "bytes": 47292,
+          "width": 240,
+          "height": 135,
+          "sha256": "59a02e1b28b8e2b18f48cb7413f73037c4c62686ca784493a03ff8e9ecbe675d",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 240px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-09-320.webp",
+          "bytes": 77946,
+          "width": 320,
+          "height": 180,
+          "sha256": "6c5c27c4cf0f1f886be22df3d4fec668cba84b3ca5e8782fea7cca72cee3e20f",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 320px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-09-640.webp",
+          "bytes": 262658,
+          "width": 640,
+          "height": 360,
+          "sha256": "b8df8e0794587df0e5ff8ea6c105574f2461dc50737ec587a6f7ae3b44afb955",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 640px width without upscaling, then lossless WebP"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "source": "owner-supplied/project-photos/10-building-corner-exterior.png",
+      "originalBytes": 649244,
+      "originalWidth": 1080,
+      "originalHeight": 810,
+      "originalFileSha256": "0609225966951ea6a2ad31a321113bb1fca69680be3c42462f4592861dd99aa7",
+      "originalRgbSha256": "ac8a0db7c83565ffe6276a1633d0a8dd00d324a0657b698e1b4117501f1161bb",
+      "outputs": [
+        {
+          "file": "/assets/image-10.webp",
+          "bytes": 323332,
+          "width": 1080,
+          "height": 810,
+          "sha256": "4469be8aa6d08dd524783aad46d08bde0a4b16c3af6b14dc64fae7e8906853a9",
+          "rgbSha256": "ac8a0db7c83565ffe6276a1633d0a8dd00d324a0657b698e1b4117501f1161bb",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": true,
+          "operation": "Lossless WebP transcode only"
+        },
+        {
+          "file": "/assets/image-10-768.webp",
+          "bytes": 219084,
+          "width": 768,
+          "height": 576,
+          "sha256": "2f039d2036e305ac8e3a5770ad1bfe4bdcfdbfaf4da74067f0e4874f86542f0e",
+          "rgbSha256": "7df71970bf29d37d793811bd7115a37ab71894a2c5e6fa00909660a3b55c8daf",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 768px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-10-480.webp",
+          "bytes": 103374,
+          "width": 480,
+          "height": 360,
+          "sha256": "781ebcac67ec2e6322f6cf96fcae6fc6e2798698e8d91f8069b44f9c5b514d9f",
+          "rgbSha256": "38bcd8fee4a46065dfe217449752e91d852f489136a441715de7e337ba488c04",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 480px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-10-240.webp",
+          "bytes": 34876,
+          "width": 240,
+          "height": 180,
+          "sha256": "55350f9d5909e1e53f157fdac70d3f892685fe12f758b3da01ec51f5f0311371",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 240px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-10-320.webp",
+          "bytes": 57046,
+          "width": 320,
+          "height": 240,
+          "sha256": "b89ea097908497edc8a6fa07b4de8eef818d1f773de8ca2fe30ee347f99fc042",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 320px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-10-640.webp",
+          "bytes": 177642,
+          "width": 640,
+          "height": 480,
+          "sha256": "8dfb438270c2de64830f7394c04a0c1f3c66fb574c91ad1688afd9491c6da7fa",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 640px width without upscaling, then lossless WebP"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "source": "owner-supplied/project-photos/11-parking-access-exterior.png",
+      "originalBytes": 814091,
+      "originalWidth": 1080,
+      "originalHeight": 810,
+      "originalFileSha256": "b03ff273499a7fd5580f96dd56a9efef2f51e3c32661ceff327f612b67d94209",
+      "originalRgbSha256": "d45146ba7025d0bee6a65fff3f3a5b1869876ec8b69940cb17ff915f582ce9ce",
+      "outputs": [
+        {
+          "file": "/assets/image-11.webp",
+          "bytes": 390440,
+          "width": 1080,
+          "height": 810,
+          "sha256": "5b4d6ffeee726645f3c5e92a0ad2514289b42f2def00243b2b0e518af7cfc7ea",
+          "rgbSha256": "d45146ba7025d0bee6a65fff3f3a5b1869876ec8b69940cb17ff915f582ce9ce",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": true,
+          "operation": "Lossless WebP transcode only"
+        },
+        {
+          "file": "/assets/image-11-768.webp",
+          "bytes": 277188,
+          "width": 768,
+          "height": 576,
+          "sha256": "57f4e5fde763b9d1592e537fdb3b243268b315b6fca7add4ca41711cbc3bbff9",
+          "rgbSha256": "04f4fd445b35c64e722c4a31a9a8c11db49701bfbb6bbc85e9d6dcd73ac96aba",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 768px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-11-480.webp",
+          "bytes": 128064,
+          "width": 480,
+          "height": 360,
+          "sha256": "6ed2be72391fd6120444d926274d116a0dca0286e1a67c13aa87a04fbc724070",
+          "rgbSha256": "fa26c248c8ef592c20de9d5bd22ecb527e17df31773507e5c21eaec18592d8f9",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 480px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-11-240.webp",
+          "bytes": 40580,
+          "width": 240,
+          "height": 180,
+          "sha256": "7595034cf8449043e2df4b2af132ab5727304eb92e772be3a8584fa5db4923ee",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 240px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-11-320.webp",
+          "bytes": 65278,
+          "width": 320,
+          "height": 240,
+          "sha256": "7f8b6216ce54471be9f6965137166747162f0cf6099b1c45829d7c9ef942766b",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 320px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-11-640.webp",
+          "bytes": 212018,
+          "width": 640,
+          "height": 480,
+          "sha256": "594cf6087bd5f7dcc601844a6e262e89e53a76ceed329e109a89ff114818a699",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 640px width without upscaling, then lossless WebP"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "source": "owner-supplied/project-photos/12-concrete-frame-aerial.png",
+      "originalBytes": 1543546,
+      "originalWidth": 1080,
+      "originalHeight": 810,
+      "originalFileSha256": "90740a8a11e11be480f2bdc003a208e433800d3744dcfb338a664eea5d60ccb3",
+      "originalRgbSha256": "faed2bb43fcbe525cf313af295410acbf04501e007283553a98a365d09657675",
+      "outputs": [
+        {
+          "file": "/assets/image-12.webp",
+          "bytes": 894876,
+          "width": 1080,
+          "height": 810,
+          "sha256": "ee5b88fff144bdc2c7cdcd4adcbf3c1fb2fd9af93646f600dc66e672e821bd5a",
+          "rgbSha256": "faed2bb43fcbe525cf313af295410acbf04501e007283553a98a365d09657675",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": true,
+          "operation": "Lossless WebP transcode only"
+        },
+        {
+          "file": "/assets/image-12-768.webp",
+          "bytes": 521142,
+          "width": 768,
+          "height": 576,
+          "sha256": "a2a82c007de90de26e392eb133f5d44d20adc3e20f61723ee68c39f0d7f7ec35",
+          "rgbSha256": "d1505f390376952e5e7a5c5660a3eac884152dd1abd146ea1cc449675f279f54",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 768px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-12-480.webp",
+          "bytes": 232022,
+          "width": 480,
+          "height": 360,
+          "sha256": "a6ccde5c07c3def143728e9117643b93e34d95e7d602d7df9cb02bc8e7324e4f",
+          "rgbSha256": "085d6f1bd311b24351ba99df389f43b6a5af26f97a7a273c646ace604b661b72",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 480px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-12-240.webp",
+          "bytes": 65718,
+          "width": 240,
+          "height": 180,
+          "sha256": "8751b7f917bc51f464e9b4700f60b9c8b2479ee5533ff6f018f1da061e4d0cda",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 240px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-12-320.webp",
+          "bytes": 109500,
+          "width": 320,
+          "height": 240,
+          "sha256": "e682e7af2cc4028eb9f356b446002db285db146c4b16470ab86b567d14148d73",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 320px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-12-640.webp",
+          "bytes": 369032,
+          "width": 640,
+          "height": 480,
+          "sha256": "b5b441ed8c5836a49370f9599925fadd2986c13b7fcdfdddd78bad32aa561567",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 640px width without upscaling, then lossless WebP"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "source": "owner-supplied/project-photos/13-formwork-worker.png",
+      "originalBytes": 1578201,
+      "originalWidth": 780,
+      "originalHeight": 1040,
+      "originalFileSha256": "3f67b4155ae8edb53a5e23985ac3b15712fb5b6eacae2b63b9454acb75f4cd09",
+      "originalRgbSha256": "a57741cde24cb1aa767246738da45d8c06abdf030495db685f877af9a3b5f3b1",
+      "outputs": [
+        {
+          "file": "/assets/image-13.webp",
+          "bytes": 881052,
+          "width": 780,
+          "height": 1040,
+          "sha256": "cf1f1883d772f1132bbd1943f9fa3712f1c074c17575425783a4991f9223e860",
+          "rgbSha256": "a57741cde24cb1aa767246738da45d8c06abdf030495db685f877af9a3b5f3b1",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": true,
+          "operation": "Lossless WebP transcode only"
+        },
+        {
+          "file": "/assets/image-13-768.webp",
+          "bytes": 929850,
+          "width": 768,
+          "height": 1024,
+          "sha256": "766a9a1659e90af6200c02c1554311c0fbca62bd6011bbd67db8d4f5a6365e72",
+          "rgbSha256": "67de9b1b68b92e9ce55917cabaa6f2e66dadcd5ba9998f0ecaee50d9f0a9471c",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 768px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-13-480.webp",
+          "bytes": 395010,
+          "width": 480,
+          "height": 640,
+          "sha256": "327a338e5deaa9a24f011039994eb5f8d612b1be1ff077b52801f2fd66ecb8f4",
+          "rgbSha256": "a539597d86de04f221ffe2000270596fbd813476d51736ab6ebd305b88477ceb",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 480px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-13-240.webp",
+          "bytes": 112682,
+          "width": 240,
+          "height": 320,
+          "sha256": "6c19cdf94492b87fc4601fdb7ceaafdc84e4aeeb4307b7989a0238540677aca2",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 240px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-13-320.webp",
+          "bytes": 185854,
+          "width": 320,
+          "height": 427,
+          "sha256": "b1a634c896ad2d6d853b5c2a9492c930f614d3670eeab370c2fd00f532647176",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 320px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-13-640.webp",
+          "bytes": 635802,
+          "width": 640,
+          "height": 853,
+          "sha256": "495673f67f9449ff44fa4f4890dc603e13278d941cf938391622af5167512df3",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 640px width without upscaling, then lossless WebP"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "source": "owner-supplied/project-photos/14-foundation-excavation.png",
+      "originalBytes": 1704975,
+      "originalWidth": 810,
+      "originalHeight": 1080,
+      "originalFileSha256": "eb39d9a362c923ca5c6289bdd25dd47e1ff0880a1e57347bb18ca3fcc673f359",
+      "originalRgbSha256": "038fbbe75bba635d69607bc777ebc8ac4879f14788ccc750f9daf43ea293ae4c",
+      "outputs": [
+        {
+          "file": "/assets/image-14.webp",
+          "bytes": 1011220,
+          "width": 810,
+          "height": 1080,
+          "sha256": "9e4d691dddd0649f631762d7b48b093310be2b2ca59a4150b6e80fb7040087b2",
+          "rgbSha256": "038fbbe75bba635d69607bc777ebc8ac4879f14788ccc750f9daf43ea293ae4c",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": true,
+          "operation": "Lossless WebP transcode only"
+        },
+        {
+          "file": "/assets/image-14-768.webp",
+          "bytes": 961702,
+          "width": 768,
+          "height": 1024,
+          "sha256": "bfae82d403043bd3dc00fa6ec4478505671944f82cca6a3af251cc3504b01b45",
+          "rgbSha256": "6fee47ce37024b2a1fc34f88bd8fef46424501becebfb2cd524c5ba02d76ed40",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 768px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-14-480.webp",
+          "bytes": 413062,
+          "width": 480,
+          "height": 640,
+          "sha256": "958ab8da2c0f0c88f8126cefe7f211c5a59016f3cacee614ef0efb966317cabf",
+          "rgbSha256": "6cbf540ca9fb7bfa9074bacadf0a1aa34a9e4a235ea7d3922348d1f80d2d34d3",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 480px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-14-240.webp",
+          "bytes": 116926,
+          "width": 240,
+          "height": 320,
+          "sha256": "3a2ada0a133b8ba11cb99e23899f80568fba84c01426d242857aef0d20436687",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 240px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-14-320.webp",
+          "bytes": 193524,
+          "width": 320,
+          "height": 427,
+          "sha256": "2209f0846a0647630e734f2e87ec300e4006fd1686247278f6203dd30f45e084",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 320px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-14-640.webp",
+          "bytes": 653192,
+          "width": 640,
+          "height": 853,
+          "sha256": "569c6375c4198139b08c8d52ad212bf62d3505f278482742fdb17722b1a3f4cd",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 640px width without upscaling, then lossless WebP"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "source": "owner-supplied/project-photos/15-ancillary-brickwork.png",
+      "originalBytes": 1858412,
+      "originalWidth": 1080,
+      "originalHeight": 810,
+      "originalFileSha256": "56a280691ad2b5df59ae4ee2b0571284f3841a2d6fceb1f0fc0e14ddf71c0006",
+      "originalRgbSha256": "8ed351b0c4c3ffd2d13caa14ff4bd3807af8736dc32aa44f0dc39d46c3337ef7",
+      "outputs": [
+        {
+          "file": "/assets/image-15.webp",
+          "bytes": 1100124,
+          "width": 1080,
+          "height": 810,
+          "sha256": "cabceec02328e67a15c39eb622864300c8d6e0416965f41dae2794120400f6a9",
+          "rgbSha256": "8ed351b0c4c3ffd2d13caa14ff4bd3807af8736dc32aa44f0dc39d46c3337ef7",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": true,
+          "operation": "Lossless WebP transcode only"
+        },
+        {
+          "file": "/assets/image-15-768.webp",
+          "bytes": 625192,
+          "width": 768,
+          "height": 576,
+          "sha256": "b045183537e5d75a7b3c85263c6a31d5d482397a9d8cab340b901dfe2eb82fae",
+          "rgbSha256": "e6235fae385f632c4892e44009ee78805eceefc2535a2b0becd07bc48ca4ccd7",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 768px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-15-480.webp",
+          "bytes": 273944,
+          "width": 480,
+          "height": 360,
+          "sha256": "c7b95e04acb2235816e9bb1156d795a5e9c4ce48b3b4765d36abc084d445a510",
+          "rgbSha256": "ce0c62e211833f89d0a789e3d5237ceefe35ced3c46d6fc6eed43c80905b766d",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 480px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-15-240.webp",
+          "bytes": 76128,
+          "width": 240,
+          "height": 180,
+          "sha256": "f682a66ee05f93e07435ec8dcfe597819e5e22971fef54df90c2a83495aea4d5",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 240px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-15-320.webp",
+          "bytes": 128246,
+          "width": 320,
+          "height": 240,
+          "sha256": "d751b6c44527038d8f125741a53296bbcd30cd65a2c389789fa50be34ba1321a",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 320px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-15-640.webp",
+          "bytes": 434258,
+          "width": 640,
+          "height": 480,
+          "sha256": "023952f5dfc7ddc459d9c953e471307950dafca6f8c3f4c34712358aa8d86985",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 640px width without upscaling, then lossless WebP"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "source": "owner-supplied/project-photos/16-foundation-site-worker.png",
+      "originalBytes": 1713989,
+      "originalWidth": 810,
+      "originalHeight": 1080,
+      "originalFileSha256": "5d0477bc1bc127b67b7ee67856023f8d567357b6bfd6d93a4e2db1e533b64326",
+      "originalRgbSha256": "dd72d5860abf0a755f8b2ba698cabf00ef0129bfca7a1cb4417dbc47346acb66",
+      "outputs": [
+        {
+          "file": "/assets/image-16.webp",
+          "bytes": 984562,
+          "width": 810,
+          "height": 1080,
+          "sha256": "48ac0712229c12edc59339af8f38befe1fa56911123db0b3c9327b104a974159",
+          "rgbSha256": "dd72d5860abf0a755f8b2ba698cabf00ef0129bfca7a1cb4417dbc47346acb66",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": true,
+          "operation": "Lossless WebP transcode only"
+        },
+        {
+          "file": "/assets/image-16-768.webp",
+          "bytes": 944252,
+          "width": 768,
+          "height": 1024,
+          "sha256": "1b9d2c84e8ce36a9a8edf9cf93c67ef68164560656a95e93cdf91fe2639fec70",
+          "rgbSha256": "29cbb0190fb087d8b4f57b2d8aa1f8eaf729c1d7e7753749d2cd0f1ea551bfa5",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 768px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-16-480.webp",
+          "bytes": 401528,
+          "width": 480,
+          "height": 640,
+          "sha256": "5ee3137c518e0bcf6056b8ea33c40d141261e635840ea822ccec14980f304242",
+          "rgbSha256": "1287d20505ddd5f8315bc3c93b809019d19eb777ea9c752a6b36d8a4184dfb60",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 480px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-16-240.webp",
+          "bytes": 111504,
+          "width": 240,
+          "height": 320,
+          "sha256": "369c559827a1a209058ecb379572de130864829d2708daef3b4b80713791d794",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 240px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-16-320.webp",
+          "bytes": 186180,
+          "width": 320,
+          "height": 427,
+          "sha256": "bc5d7c2fa93aed23b168603f593a94e9cd42521bcd0967bf7d9758d01e395f06",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 320px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-16-640.webp",
+          "bytes": 645066,
+          "width": 640,
+          "height": 853,
+          "sha256": "555e5b12f4229d916e9dbe27a2853e1c8cf44889304c6d55f2f9c92ef07f640e",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 640px width without upscaling, then lossless WebP"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "source": "owner-supplied/project-photos/17-crane-structural-frame.png",
+      "originalBytes": 1142867,
+      "originalWidth": 810,
+      "originalHeight": 1080,
+      "originalFileSha256": "82e032c9a5fc648b72f3587a804fcbfdd9363b1841440f77489d93a98a3a6635",
+      "originalRgbSha256": "2af073835e62aadd6cf43bd46011934aa4cc0efad683975861a294f4aacb728f",
+      "outputs": [
+        {
+          "file": "/assets/image-17.webp",
+          "bytes": 659570,
+          "width": 810,
+          "height": 1080,
+          "sha256": "6fe935679cce4ae19a3487cdf053b69a23ce1d097d91887c72e1d3718bb8b3b8",
+          "rgbSha256": "2af073835e62aadd6cf43bd46011934aa4cc0efad683975861a294f4aacb728f",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": true,
+          "operation": "Lossless WebP transcode only"
+        },
+        {
+          "file": "/assets/image-17-768.webp",
+          "bytes": 647758,
+          "width": 768,
+          "height": 1024,
+          "sha256": "b337b2da313c497181b8a2806af97ad1b603134c595ebad007a642de159e5e47",
+          "rgbSha256": "9d6a3d1e14b9aca6f887b349e5f63284fd9a9b1a7e340f5a5ffd9c34074de565",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 768px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-17-480.webp",
+          "bytes": 273772,
+          "width": 480,
+          "height": 640,
+          "sha256": "2376299c5f47bab0cb9b2ad622e8ecda7405c482e0cf86b068cad00840c2fa4b",
+          "rgbSha256": "53c52a90b0ccdfc7ca23763899f4a859ea41ecd86da7de8ab086bfe66f699b09",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 480px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-17-240.webp",
+          "bytes": 79234,
+          "width": 240,
+          "height": 320,
+          "sha256": "f5f2a733b12e54d5687ce5cc9bfeb9126e53ee7879fd113fc475ca168810d3b5",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 240px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-17-320.webp",
+          "bytes": 132004,
+          "width": 320,
+          "height": 427,
+          "sha256": "7b9b9aa78acae5f4f4e684875d6f44ca11048599c7fa369dd0ffbe2d56a03c96",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 320px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-17-640.webp",
+          "bytes": 462124,
+          "width": 640,
+          "height": 853,
+          "sha256": "041cae0447e7a01b6fa03327c85d75641c539a6523af33f91b7a7dd88b14a0c1",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 640px width without upscaling, then lossless WebP"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "source": "owner-supplied/project-photos/18-crane-upper-structure.png",
+      "originalBytes": 1125963,
+      "originalWidth": 1080,
+      "originalHeight": 810,
+      "originalFileSha256": "4ec7d872b7eb892e754a98729449ea19743d7920b1d9884cd14fb906cac54fda",
+      "originalRgbSha256": "cb3bce5702c5ad7201c616da0c120aba975a51a5ee96529de7b5b84cbf569afe",
+      "outputs": [
+        {
+          "file": "/assets/image-18.webp",
+          "bytes": 598904,
+          "width": 1080,
+          "height": 810,
+          "sha256": "a595cb6b32fe73da97bf5ebbf92ce46b0ec761a7dd44bb7eae83b944cf9fbfe6",
+          "rgbSha256": "cb3bce5702c5ad7201c616da0c120aba975a51a5ee96529de7b5b84cbf569afe",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": true,
+          "operation": "Lossless WebP transcode only"
+        },
+        {
+          "file": "/assets/image-18-768.webp",
+          "bytes": 398628,
+          "width": 768,
+          "height": 576,
+          "sha256": "974e2f0c2b422907b72f1aea6750320b738bd2d5633d1e99faa447eaecb84bfb",
+          "rgbSha256": "1cc52b0f51a0adc8321dbee6877c7f3b15fb9a1eba6d59eaec437a118ca1109d",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 768px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-18-480.webp",
+          "bytes": 179478,
+          "width": 480,
+          "height": 360,
+          "sha256": "a02c99cbeac3d135fbbbe7df1712f5f09d9fba8810f44778b5162b65714af79e",
+          "rgbSha256": "43cd5513a259a9ce80fa10652118a28c76e196fde2072d7e78850f2331e2a6e7",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 480px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-18-240.webp",
+          "bytes": 52008,
+          "width": 240,
+          "height": 180,
+          "sha256": "6e6fa37ba6972bd93db39cd163b7fceded6994c068f4c24b1f79de595dc52e9c",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 240px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-18-320.webp",
+          "bytes": 85560,
+          "width": 320,
+          "height": 240,
+          "sha256": "d27e75dd7df32401f4bfb46702d957dec9d1dffc399711259e714082cb86ecea",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 320px width without upscaling, then lossless WebP"
+        },
+        {
+          "file": "/assets/image-18-640.webp",
+          "bytes": 285194,
+          "width": 640,
+          "height": 480,
+          "sha256": "ad8b2094682156c9334cc5d1e30e5b5646685f77dd5d14221bd32b75c6406428",
+          "losslessEncoding": true,
+          "originalPixelsPreserved": false,
+          "operation": "Resize to 640px width without upscaling, then lossless WebP"
+        }
+      ]
+    }
+  ],
+  "decorations": [
+    {
+      "file": "/assets/paper-texture.webp",
+      "source": "approved-current/01-Home.png",
+      "crop": {
+        "left": 0,
+        "top": 90,
+        "width": 128,
+        "height": 128
+      },
+      "description": "Clean ivory paper texture from the approved homepage left margin",
+      "operation": "Exact source-pixel crop with lossless WebP encoding",
+      "bytes": 7312,
+      "sha256": "a825fed3a0416ae619d6c469c0e7f284b38ee6263dcca7b0daa05626094bdaec",
+      "sourceFileSha256": "160bd9ca4526ca654acd3bd2d1a3a50c4e71229c155011faf4cf4312e3fb0ff5"
+    },
+    {
+      "file": "/assets/green-texture.webp",
+      "source": "approved-current/01-Home.png",
+      "crop": {
+        "left": 0,
+        "top": 1402,
+        "width": 256,
+        "height": 80
+      },
+      "description": "Clean deep green texture from the approved homepage closing CTA, clear of text and buttons",
+      "operation": "Exact source-pixel crop with lossless WebP encoding",
+      "bytes": 10646,
+      "sha256": "3ab791f9139b94d659ded2ee2e2e36a6ab91ac7a37d36571d9e3ace2cfba8212",
+      "sourceFileSha256": "160bd9ca4526ca654acd3bd2d1a3a50c4e71229c155011faf4cf4312e3fb0ff5"
+    },
+    {
+      "file": "/assets/paper-generated.webp",
+      "source": "C:/Users/user/.codex/generated_images/01a1f976-3cb5-7483-993c-6bca6897df6c/exec-5cd5bcd1-0def-43c2-be35-c29d56391594.png",
+      "masterFile": "output/imagegen/akang-kasep/paper-texture-master.png",
+      "sourceFileSha256": "949d08ea7c2256c8660c80263a7b6066a3afd68fb4a65e0b7cb1f545491743a5",
+      "sourceBytes": 1676381,
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "width": 512,
+      "height": 512,
+      "bytes": 135176,
+      "sha256": "a1b16578425f1e243f6eb72b6bcedd6c4b294faf41eba3a6ff5fb5eb173b4722",
+      "generation": "Built-in image_gen; approved by user; supplied and visually inspected by parent",
+      "operation": "Preserve master unchanged; Lanczos3 resize to 512px width to stay below 150KB; lossless WebP encoding; no color or lightness adjustments",
+      "description": "Generated pale paper texture full-size master and web derivative"
+    },
+    {
+      "file": "/assets/green-generated.webp",
+      "source": "C:/Users/user/.codex/generated_images/01a1f976-3cb5-7483-993c-6bca6897df6c/exec-5d0479ba-d3a9-491e-bcfd-3705f15f80e0.png",
+      "masterFile": "output/imagegen/akang-kasep/green-texture-master.png",
+      "sourceFileSha256": "184eea3007e8667151e66c857e34a983a3ffb00388e2d9b3939ab4e06b4f0b85",
+      "sourceBytes": 1790153,
+      "sourceWidth": 1774,
+      "sourceHeight": 887,
+      "width": 640,
+      "height": 320,
+      "bytes": 122576,
+      "sha256": "6dd11cbc39880e0abfffd6c9392a77850e284fbfb2434e228b3c2850e99db1e4",
+      "generation": "Built-in image_gen; approved by user; supplied and visually inspected by parent",
+      "operation": "Preserve master unchanged; Lanczos3 resize to 640px width to stay below 150KB; lossless WebP encoding; no color or lightness adjustments",
+      "description": "Generated deep green CTA texture full-size master and web derivative"
+    },
+    {
+      "file": "/assets/paper-web.webp",
+      "source": "/assets/paper-generated.webp",
+      "operation": "Resize decorative texture to 256px; lossless web encoding. Full master retained separately.",
+      "bytes": 28188
+    },
+    {
+      "file": "/assets/green-web.webp",
+      "source": "/assets/green-generated.webp",
+      "operation": "Resize decorative texture to 320px; lossless web encoding. Full master retained separately.",
+      "bytes": 28102
+    }
+  ],
+  "brand": [
+    {
+      "file": "/assets/logo.webp",
+      "source": "original-logo.jpg extracted from physical PDF page 23",
+      "crop": {
+        "left": 67,
+        "top": 231,
+        "width": 878,
+        "height": 558
+      },
+      "width": 878,
+      "height": 558,
+      "sha256": "562b08c31f19295f1723a6705b373a85af6eaf3a02401469b6db7a5378dad763",
+      "operation": "Crop only, lossless WebP, white matte retained",
+      "note": "Use mix-blend-mode:multiply on approved ivory background. No logo redraw or generative edit.",
+      "sourceFileSha256": "5906638bb853b86af50919274e78d13cbccf7a9c6211af46941c396f6533b2bc"
+    },
+    {
+      "file": "/assets/favicon.png",
+      "source": "original-logo.jpg",
+      "operation": "Crop the AK symbol (exclude wordmark), fit into 128x128 white square, lossless PNG",
+      "sha256": "0967ce5aabfd5eef1f4bc1a45bb6582dc2190d18ad13c841262d4f0f14151f85",
+      "sourceFileSha256": "5906638bb853b86af50919274e78d13cbccf7a9c6211af46941c396f6533b2bc"
+    },
+    {
+      "file": "/assets/logo-256.webp",
+      "source": "original-logo.jpg extracted from physical PDF page 23",
+      "crop": {
+        "left": 67,
+        "top": 231,
+        "width": 878,
+        "height": 558
+      },
+      "width": 256,
+      "operation": "Crop original logo, resize to 256px width, lossless WebP",
+      "bytes": 30450,
+      "sha256": "02ae2012ffc1a78c1b3674b8db45182d95ff8961a9b631a5442944aecfe25c3b",
+      "note": "Responsive header variant; use with srcset and mix-blend-mode:multiply.",
+      "sourceFileSha256": "5906638bb853b86af50919274e78d13cbccf7a9c6211af46941c396f6533b2bc"
+    },
+    {
+      "file": "/assets/logo-512.webp",
+      "source": "original-logo.jpg extracted from physical PDF page 23",
+      "crop": {
+        "left": 67,
+        "top": 231,
+        "width": 878,
+        "height": 558
+      },
+      "width": 512,
+      "operation": "Crop original logo, resize to 512px width, lossless WebP",
+      "bytes": 90630,
+      "sha256": "6f95cfe19669c15abd9bebe18dee3de1aab1884d79d597a10f2f80c28fdee0d1",
+      "note": "Responsive header variant; use with srcset and mix-blend-mode:multiply.",
+      "sourceFileSha256": "5906638bb853b86af50919274e78d13cbccf7a9c6211af46941c396f6533b2bc"
+    },
+    {
+      "file": "/assets/logo-320.webp",
+      "width": 320,
+      "bytes": 40468,
+      "operation": "Original logo resized to 320px; lossless encoding",
+      "sha256": "eb264e65b0110240a6c79c477ae2e7ab4a5d786de65971a354e74a8b19985434"
+    }
+  ],
+  "fonts": [
+    {
+      "file": "/assets/heading.woff2",
+      "family": "DM Serif Display",
+      "style": "normal",
+      "weight": "400",
+      "subset": "latin",
+      "format": "woff2",
+      "sourceUrl": "https://fonts.gstatic.com/s/dmserifdisplay/v17/-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx0g.woff2",
+      "license": "SIL Open Font License 1.1",
+      "licenseFile": "/assets/LICENSE-DM-Serif-Display.txt",
+      "sha256": "fdf61e20fd2c0108e0ea28da4daca0035205b4b7fc031a3974b865b704de160a",
+      "bytes": 24744,
+      "matchStatus": "Visual match selected for the raster design; exact original family cannot be established from generated artwork"
+    },
+    {
+      "file": "/assets/heading-italic.woff2",
+      "family": "DM Serif Display",
+      "style": "italic",
+      "weight": "400",
+      "subset": "latin",
+      "format": "woff2",
+      "sourceUrl": "https://fonts.gstatic.com/s/dmserifdisplay/v17/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB0PD2.woff2",
+      "license": "SIL Open Font License 1.1",
+      "licenseFile": "/assets/LICENSE-DM-Serif-Display.txt",
+      "sha256": "ed8b291611e32fa2d2900488dd48fc95faf0957b2ef7ddf1527e8d21dd9cf2df",
+      "bytes": 24572,
+      "matchStatus": "Visual match selected for the raster design; exact original family cannot be established from generated artwork"
+    },
+    {
+      "file": "/assets/body.woff2",
+      "family": "Manrope",
+      "style": "normal",
+      "weight": "400 800",
+      "subset": "latin",
+      "format": "woff2",
+      "sourceUrl": "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggexSg.woff2",
+      "license": "SIL Open Font License 1.1",
+      "licenseFile": "/assets/LICENSE-Manrope.txt",
+      "sha256": "8c2def024c1bf31aacf3624ae3c4d701269b4ec3dc765c04830839f0d36b2d9e",
+      "bytes": 24532,
+      "matchStatus": "Visual match selected for the raster design; exact original family cannot be established from generated artwork"
+    }
+  ],
+  "totals": {
+    "originalPhotoBytes": 23010371,
+    "losslessOriginalSizePhotoBytes": 12859088,
+    "allResponsivePhotoBytes": 35380546,
+    "fontBytes": 73848,
+    "losslessOriginalSizeSavingsPercent": 44.12
+  }
+}

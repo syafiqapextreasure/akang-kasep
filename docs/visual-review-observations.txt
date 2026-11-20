@@ -1,0 +1,78 @@
+AKANG KASEP - VISUAL COMPARISON OBSERVATIONS
+21 November 2026
+
+Scope
+Compared every current approved screen (12 panels/11 routes) with desktop and tablet captures in review/screenshots. About's two approved panels were treated as one continuous page. Capture files were being regenerated during review, so the observations below identify the visible state and any correction already reported by the implementer. Font-family differences in early captures were deliberately excluded because the font path fix was in progress. This is a visual review, not a functional-test report.
+
+PRIORITY CORRECTIONS
+
+V01 - Home feature photo and Services image frames too tall in first captures
+Observed: desktop Home classroom image was approximately394x296 at normalized1024 width versus roughly390x162 in the approved artwork. Services images were roughly444x333 versus440x205. These natural4:3 heights made the Home and Services pages materially longer and changed the image/text balance.
+Action: explicit bounded frames with object-fit:cover; Home feature near2.4:1, Services near2.15:1, while allowing readable text to determine each row's minimum height.
+Status: parent reported the bounded/absolute-image positioning correction already applied; verify final recapture. The earlier observation must not be treated as an unresolved final defect if final screenshots confirm it.
+
+V02 - Tablet Home introduction label overlaps heading
+Observed: INTRODUCTION in its narrow left rail overflows into Built on practical experience at tablet width.
+Action: at tablet breakpoint place the eyebrow above the introductory heading, or widen that label rail and restructure the service grid. Do not shrink the type below readable sizing.
+Status: sent to parent for correction.
+
+V03 - Not-found page missing shared header
+Observed in desktop and tablet: implementation begins with giant404 without the approved logo/navigation header. Approved404 has the shared header before the central recovery content.
+Action: render the shared header on the real404 response as well as normal routes; retain correct404HTTPstatus.
+Status: sent to parent for correction.
+
+V04 - Confirmation layout differs materially
+Observed: three-step process and follow-up are inside the main bordered confirmation panel; approved places both below/outside it. Current circles are thin orange outlines; approved uses pale filled step discs and a solid orange success check. Current primary action is Back to Home; approved primary is Explore Our Projects.
+Action: preserve the honest direct-visit status copy, but use the approved accepted-state composition after a real accepted enquiry: solid orange check, bordered heading/body/actions panel, separate three-step strip and follow-up. Primary Explore Our Projects, secondary Back to Home.
+Status: sent to parent. Direct visit may intentionally differ in text from accepted state; do not falsely show message received.
+
+V05 - Before & After thumbnail side pillars in first desktop capture
+Observed: Foundation14 and Structure17 used contain and had large grey side pillars. Approved cards fill landscape frames edge-to-edge. Latest tablet capture inspected during review already showed those cards filled.
+Action: use object-fit:cover and focal positioning for these cards, not stretch or letterbox. Keep full-view access in gallery if needed.
+Status: likely corrected during recapture; verify final desktop.
+
+V06 - Hero and panorama focal positions
+Observed: first desktop Project-detail hero clipped the central roof apex at the top edge; approved shows roof apex and some sky. Later tablet Project-detail capture showed more sky but cut away building base/parking. Contact panorama currently crops away the street at the top that is visible in the approved reference.
+Action: tune photo10 focal position and/or modestly relax its frame ratio so the key roof/staircase/base landmarks remain visible. Contact photo4 should start near top-centre. Do not stretch the photograph.
+Important source limitation: several approved raster mockups reinterpreted portrait originals as wide views. Raw photo14 is portrait; matching every background landmark of the generated landscape cannot be achieved through cropping. Preserve factual source photography and report this deliberate difference instead of claiming pixel-identical source pixels.
+Status: sent to parent.
+
+SECONDARY REFINEMENTS
+
+V07 - Tablet Contact email wrapping
+Observed: email wraps to a final lone m on the next line.
+Action: supply a natural wrap opportunity after @ (or stack contact details above the form at tablet). Avoid reducing the email font to force one line.
+
+V08 - Privacy sidebar geometry
+Observed: approved sidebar has CONTENTS eyebrow, unnumbered ruled anchor links, and a vertical divider extending down the full reading column. Implementation has On this page, numbered links without per-link rules, and its vertical divider ends at the bottom of the short menu.
+Action: preserve the approved presentation: uppercase eyebrow, fine rules between links, full-height left-column divider with optional sticky inner contents. The new detailed privacy copy may legitimately make the main page longer.
+
+V09 - Tablet Services process band
+Observed: From brief to agreed scope wraps to four lines in a narrow left block, creating a tall strip beside a single thin process row.
+Action: allow that heading to sit above the step row at tablet, or increase its share of the band. Keep the four numbered steps and connecting rules.
+
+V10 - Header/button/text geometry after font fix
+Action: recapture all pages after fonts are confirmed loaded before making final proportion judgments. A font-path issue changes line lengths and row heights, so earlier typography observations are not a valid final baseline. Preserve readable enlarged responsive body type; do not shrink it solely to match tiny raster labels.
+
+PAGE COVERAGE / ELEMENTS PRESENT
+
+Home: hero two-photo mosaic, diagonal seam/ribbon, intro/services links, three distinct progress images, timeline/play, feature, numbered process, credentials strip, forestCTA and textfooter are all present. Main issues V01/V02.
+About: complete story/history, facts, strengths, director message, role hierarchy, corporate table and credential overview are present. No historical contracts wrongly retained. PW4 technicians are connected through ChargemanB0. No missing substantive section found.
+Services: correct four alternating photo/text service rows, orange square bullets, numbered headings, image caption, process and closing CTA present. Main issue V01; tablet process refinement V09.
+Projects: current featured ongoing project and both text-only historical rows are present, including client/value/profile date/scope. Obsolete extra photo-gallery section is absent. No missing section found.
+Project detail: title/status, hero/meta bar, overview/highlights,2x2gallery, before-after link and CTA present. Focal-position review V06.
+Before & After: project ribbon, stage image, orange timeline, previous/play/next, earlier-stage cards and case-study link present. Additional scroll-story/all-stages controls are a functional enhancement. Card issue V05.
+Credentials: corporate identity band/document icon, four half-width cards and full-widthSCORE, slanted orange accents, details buttons and request-profile strip all present. No missing certificate category found.
+Contact: two-column company/form layout, orange outline icons, required fields/either-contact note, privacy checkbox, panorama and special Prefer a conversation strip present. No redundant generic closingCTA. V06/V07.
+Privacy: all six content sections, contents column, note band and home link present. Detailed implementation-specific copy replaces draft placeholders; its factual correctness requires the main implementation review. V08.
+Confirmation: header and process concepts present; composition/action hierarchy V04. Direct-visit explanatory copy is an intentional truthfulness safeguard, not an omitted success message.
+404: pale404, orange rule, recovery actions, three-link band and footer present; missing header V03.
+
+Decorative coverage
+Warm paper texture, pale alternate bands, forest texture, slanted badges, fine dividers, orange accents and sharp-corner buttons are present throughout. Photos remain page-specific in their lead positions. Original-company-logo geometry differs slightly from generated mockup lettering; using the genuine source logo is a justified fidelity choice. Do not replace it with reconstructed fake branding.
+
+Recommended final verification
+After the last corrections, capture all11routes atdesktop/tablet/phone, inspect the final artifacts and close or retain each V-item explicitly. Check the confirmation accepted state separately from direct visit. Compare layout/crops before functional testing. Do not report all listed observations as current failures without checking which were corrected during this rolling review.
+
+FINAL CLOSURE — 21 November 2026
+V01–V10 checked again after corrections; see docs/final-review.txt for the final status. V03 was an earlier capture observation: the final 404 has the shared header, confirmed visually and by DOM measurement at all tested widths. V01 uses content-sized bounded photo frames so readable text can enlarge a row. All remaining listed layout, crop, sidebar, confirmation and tablet fixes were applied and recaptured. This file preserves the review history, not an unresolved defect list.

@@ -1,0 +1,348 @@
+{
+  "researched_on": "2026-11-21",
+  "timezone": "Asia/Singapore",
+  "business": "Akang Kasep Sdn. Bhd.",
+  "purpose": "Keyword, competitor and SEO/AEO/GEO implementation research for the approved website.",
+  "scope": "Research only. No competitor contact, account change, publication or website edit.",
+  "evidence_policy": [
+    "Priorities are qualitative recommendations based on supplied company services, location, buyer intent and observed official competitor content; no keyword-volume, CPC, difficulty or ranking measurements were available.",
+    "Competitors are a relevant comparison set, not a ranked or exhaustive market list. Their claims are self-descriptions from company-controlled sites, not independent certification checks.",
+    "Kuala Terengganu is the documented company location. Do not infer nationwide service coverage from historic jobs.",
+    "Retain approved visual composition; integrate search clarity through existing visible copy, metadata, links and structured data."
+  ],
+  "recommended_positioning": "A construction and maintenance company based in Kuala Terengganu, with source-backed company credentials, documented historical experience and an ongoing project shown through genuine progress photography.",
+  "keyword_map": [
+    {
+      "page": "Home",
+      "route": "/",
+      "priority": "P1",
+      "primary_en": "construction and maintenance company Kuala Terengganu",
+      "primary_bm": "syarikat pembinaan dan penyelenggaraan Kuala Terengganu",
+      "secondary_en": [
+        "building contractor Terengganu",
+        "construction company Kuala Terengganu"
+      ],
+      "secondary_bm": [
+        "kontraktor pembinaan Kuala Terengganu",
+        "kontraktor bangunan Terengganu"
+      ],
+      "intent": "Local commercial discovery",
+      "title": "Akang Kasep | Construction & Maintenance, Kuala Terengganu",
+      "description": "Akang Kasep Sdn. Bhd. is a construction and maintenance company based in Kuala Terengganu. Explore our services, credentials and project experience.",
+      "placement": "Keep the approved hero headline. Use the locality and core service phrase in the introductory paragraph and page title; do not force all variants into the hero."
+    },
+    {
+      "page": "About",
+      "route": "/about",
+      "priority": "P1 brand / P2 generic",
+      "primary_en": "Akang Kasep Sdn Bhd",
+      "primary_bm": "profil syarikat Akang Kasep",
+      "secondary_en": [
+        "Akang Kasep company profile",
+        "Bumiputera construction company Terengganu"
+      ],
+      "secondary_bm": [
+        "syarikat kontraktor Bumiputera Terengganu"
+      ],
+      "intent": "Business verification",
+      "title": "About Akang Kasep | Kuala Terengganu Construction Company",
+      "description": "Learn about Akang Kasep's company background, people, construction and maintenance focus, and corporate information in Kuala Terengganu.",
+      "placement": "Use consistent legal name and registration number, genuine history and clear business/contact facts. Keep historical project entries on Projects."
+    },
+    {
+      "page": "Services",
+      "route": "/services",
+      "priority": "P1",
+      "primary_en": "building maintenance contractor Terengganu",
+      "primary_bm": "kontraktor penyelenggaraan bangunan Terengganu",
+      "secondary_en": [
+        "building construction services Kuala Terengganu",
+        "construction and maintenance services"
+      ],
+      "secondary_bm": [
+        "perkhidmatan pembinaan bangunan Kuala Terengganu",
+        "kerja penyelenggaraan bangunan"
+      ],
+      "intent": "Service-scope evaluation",
+      "title": "Construction & Maintenance Services | Akang Kasep",
+      "description": "Explore Akang Kasep's construction and maintenance services, including building works and coordinated project scopes. Discuss your project requirements.",
+      "placement": "Use precise service headings and concise scope descriptions. Civil/external and selected M&E descriptions must stay within approved scopes; registration categories alone do not establish every currently offered service."
+    },
+    {
+      "page": "Projects",
+      "route": "/projects",
+      "priority": "P1 proof / P2 discovery",
+      "primary_en": "Akang Kasep projects",
+      "primary_bm": "projek Akang Kasep",
+      "secondary_en": [
+        "building construction project progress",
+        "building maintenance project experience"
+      ],
+      "secondary_bm": [
+        "kemajuan projek pembinaan",
+        "pengalaman projek penyelenggaraan bangunan"
+      ],
+      "intent": "Evidence and portfolio review",
+      "title": "Construction & Maintenance Projects | Akang Kasep",
+      "description": "View Akang Kasep's ongoing project photographs and selected experience in quarters maintenance and specialist kitchen, ventilation and LPG works.",
+      "placement": "Show exact client, scope, value and labelled profile date for historical entries; ongoing Project A retains its working-title and Ongoing labels. Do not use unrelated photos for historic contracts."
+    },
+    {
+      "page": "Contact",
+      "route": "/contact",
+      "priority": "P1",
+      "primary_en": "Akang Kasep contact",
+      "primary_bm": "hubungi Akang Kasep",
+      "secondary_en": [
+        "construction enquiry Kuala Terengganu",
+        "building maintenance enquiry Terengganu"
+      ],
+      "secondary_bm": [
+        "pertanyaan kontraktor Kuala Terengganu",
+        "sebut harga penyelenggaraan bangunan"
+      ],
+      "intent": "Enquiry / navigation",
+      "title": "Contact Akang Kasep | Kuala Terengganu",
+      "description": "Contact Akang Kasep Sdn. Bhd. in Kuala Terengganu to discuss construction or maintenance requirements. Find our office, telephone and enquiry details.",
+      "placement": "Keep address, email and phone consistent with approved current copy. No invented office hours, WhatsApp capability, response-time promise or service-area map."
+    },
+    {
+      "page": "Credentials",
+      "route": "/credentials",
+      "priority": "P2 verification",
+      "primary_en": "Akang Kasep CIDB G7",
+      "primary_bm": "pendaftaran CIDB Akang Kasep",
+      "secondary_en": [
+        "Akang Kasep company registration",
+        "Akang Kasep contractor credentials"
+      ],
+      "secondary_bm": [
+        "sijil kontraktor Akang Kasep"
+      ],
+      "intent": "Procurement / credentials checking",
+      "title": "Company Credentials & Registration | Akang Kasep",
+      "description": "Review company registration and credential information documented in Akang Kasep's profile, including CIDB, SPKK, STB, MOF and SCORE details.",
+      "placement": "Label document dates and expiry details accurately, expose only public-safe information, and do not imply a live registry check."
+    }
+  ],
+  "keyword_exclusions": [
+    {
+      "terms": [
+        "best contractor Terengganu",
+        "No. 1 contractor",
+        "cheapest contractor"
+      ],
+      "reason": "Unsupported comparative or price claims."
+    },
+    {
+      "terms": [
+        "luxury home builder",
+        "bungalow design and build",
+        "house renovation specialist"
+      ],
+      "reason": "The supplied profile does not establish those specific current offers."
+    },
+    {
+      "terms": [
+        "24-hour emergency maintenance",
+        "nationwide facilities management",
+        "ISO-certified contractor"
+      ],
+      "reason": "No verified source for availability, geographic coverage or ISO certification."
+    },
+    {
+      "terms": [
+        "LPG installation contractor Kuala Terengganu",
+        "commercial kitchen installer Terengganu"
+      ],
+      "reason": "Historical specialist project evidence exists, but current saleable service scope/licensing needs confirmation before targeting as an active standalone offer."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "WAA BINA (M) SDN. BHD.",
+      "type": "Direct local construction comparison",
+      "url": "https://waabina.com/about-us/",
+      "retrieved_on": "2026-11-21",
+      "verified_from_official_site": "Kuala Terengganu address; describes civil/building construction, road and general maintenance work and G7 registration.",
+      "content_observation": "Navigation separates services, projects, organisation, machinery and certifications.",
+      "inferred_opportunity": "Make Akang Kasep's construction-to-maintenance proposition and documented progress easy to understand in a similarly verifiable but visually distinct presentation.",
+      "limitations": "Self-described credentials, not independently registry-verified."
+    },
+    {
+      "name": "GPQ Sdn. Bhd.",
+      "type": "Regional construction benchmark",
+      "url": "https://www.gpqsb.com.my/corporate-profile/about-us",
+      "retrieved_on": "2026-11-21",
+      "verified_from_official_site": "Kuala Terengganu contact address; identifies itself as a Terengganu Incorporated subsidiary and G7 contractor with building, housing, highway and infrastructure experience.",
+      "content_observation": "Provides corporate history, regional project scope and clear group/business context.",
+      "inferred_opportunity": "Use Akang Kasep's own named experience and practical service scope rather than trying to claim the same group scale or breadth.",
+      "limitations": "A benchmark with a different corporate scale; not proof the companies compete for identical tenders."
+    },
+    {
+      "name": "Building Lindungan Sdn. Bhd.",
+      "type": "Adjacent East Coast building-maintenance comparison",
+      "url": "https://www.buildinglindungan.com/company-profile-mission/",
+      "retrieved_on": "2026-11-21",
+      "verified_from_official_site": "Describes building/facilities maintenance involving Kelantan, Terengganu and Pahang, with engineering, security, landscape, cleaning and pest-control functions; listed office in Kota Bharu.",
+      "content_observation": "Explains maintenance scope and has a list-of-buildings navigation item.",
+      "inferred_opportunity": "Give maintenance equal visibility to construction and use the documented Putrajaya quarters contract as specific experience.",
+      "limitations": "Its page mentions an extension only through March 2026; do not repeat that as a presently active contract."
+    },
+    {
+      "name": "AMJ Technique Sdn. Bhd.",
+      "type": "Adjacent Terengganu civil-maintenance / industrial-services comparison",
+      "url": "https://www.amjtechnique.com/index.html",
+      "retrieved_on": "2026-11-21",
+      "verified_from_official_site": "States it was established in Kemaman; service list includes civil building maintenance, structure/piping fabrication, installation/welding and tank work.",
+      "content_observation": "Uses a direct service list with a company-profile link.",
+      "inferred_opportunity": "Explain the actual boundaries of Akang Kasep's services clearly, without copying unrelated industrial capabilities.",
+      "limitations": "Indexed and opened versions showed differing contact details, so no contact address or phone is reproduced here; service positioning only."
+    }
+  ],
+  "implementation": [
+    {
+      "priority": "P1",
+      "action": "Render the main company, service and project copy as crawlable HTML. Use a unique descriptive title and meta description per page, a coherent H1/H2 outline and crawlable internal links.",
+      "sources": [
+        "google-essentials",
+        "google-ai-features"
+      ]
+    },
+    {
+      "priority": "P1",
+      "action": "Use one canonical public host and clean extensionless routes. Redirect obsolete .html paths, publish a sitemap of actual indexable URLs and return real 404 status for unknown pages. The final production host must be configured; do not ship example.com canonicals.",
+      "sources": [
+        "google-essentials",
+        "bing-guidelines"
+      ]
+    },
+    {
+      "priority": "P1",
+      "action": "Add accurate Organization JSON-LD with legal name, logo, registration identifier, address and contact details. Add BreadcrumbList on interior pages. Markup must match visible content; omit invented sameAs profiles, aggregate ratings, geo coordinates, office hours and coverage areas.",
+      "sources": [
+        "google-organization",
+        "google-breadcrumb",
+        "google-ai-features"
+      ]
+    },
+    {
+      "priority": "P1",
+      "action": "Use original, relevant project imagery with descriptive alt text and captions; decorative shapes use empty alt text or CSS. Keep important headings and copy out of image-only artwork.",
+      "sources": [
+        "google-ai-features",
+        "google-ai-guide"
+      ]
+    },
+    {
+      "priority": "P1",
+      "action": "Answer buyer questions clearly within existing approved sections: what the company does, where it is based, how to enquire, what experience is documented and how project progress is shown. Preserve the design instead of adding keyword-stuffed blocks.",
+      "sources": [
+        "google-ai-guide",
+        "bing-ai-performance"
+      ]
+    },
+    {
+      "priority": "P1",
+      "action": "Keep body copy and controls readable across large desktop, tablet and phone; support keyboard navigation, reduced motion, stable layouts and fast images. This is a usability requirement as well as search groundwork.",
+      "sources": [
+        "google-ai-guide"
+      ]
+    },
+    {
+      "priority": "P2",
+      "action": "After deployment, verify the real domain in Google Search Console and Bing Webmaster Tools, submit the sitemap and check crawl/index eligibility. Review the current Search Console generative-AI inclusion setting referenced by Google's newer guidance. No account setup performed in this research.",
+      "sources": [
+        "google-ai-guide",
+        "bing-guidelines"
+      ]
+    },
+    {
+      "priority": "P2",
+      "action": "Keep Google Business Profile and Bing Places facts consistent with the published site if the owner manages those profiles. Do not invent profile links or opening hours.",
+      "sources": [
+        "google-ai-guide",
+        "bing-ai-announcement"
+      ]
+    },
+    {
+      "priority": "P2",
+      "action": "Measure enquiries, search impressions/clicks and available AI-citation reports separately. A citation is not a site visit or a qualified enquiry.",
+      "sources": [
+        "bing-ai-performance"
+      ]
+    },
+    {
+      "priority": "P2",
+      "action": "Use English for the approved English design. The BM keyword map supports a later complete, accurate Malay version; add hreflang only when real equivalent translated URLs exist.",
+      "sources": [
+        "google-essentials"
+      ]
+    }
+  ],
+  "avoid": [
+    "No rankings, traffic, leads or AI-citation guarantees.",
+    "No meta-keywords tag as a claimed Google ranking tactic.",
+    "No hidden keyword text, copied competitor copy, location doorway pages or unsupported service claims.",
+    "No requirement to add llms.txt or special AI schema for Google visibility.",
+    "No blanket promise of FAQ rich results; the previously documented FAQ page redirected to Google's updates page during this research.",
+    "Do not call source-based qualitative keyword prioritization measured keyword research."
+  ],
+  "sources": [
+    {
+      "id": "google-essentials",
+      "title": "Google Search Essentials",
+      "url": "https://developers.google.com/search/docs/essentials",
+      "retrieved_on": "2026-11-21"
+    },
+    {
+      "id": "google-starter",
+      "title": "Google SEO Starter Guide",
+      "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+      "retrieved_on": "2026-11-21"
+    },
+    {
+      "id": "google-ai-features",
+      "title": "Google AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features",
+      "retrieved_on": "2026-11-21"
+    },
+    {
+      "id": "google-ai-guide",
+      "title": "Optimizing your website for generative AI features on Google Search",
+      "url": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+      "retrieved_on": "2026-11-21"
+    },
+    {
+      "id": "google-organization",
+      "title": "Organization structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/organization",
+      "retrieved_on": "2026-11-21"
+    },
+    {
+      "id": "google-breadcrumb",
+      "title": "Breadcrumb structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/breadcrumb",
+      "retrieved_on": "2026-11-21"
+    },
+    {
+      "id": "bing-guidelines",
+      "title": "Bing Webmaster Guidelines",
+      "url": "https://www.bing.com/webmasters/help/webmaster-guidelines-30fba23a",
+      "retrieved_on": "2026-11-21",
+      "access_note": "Official indexed text retrieved; direct page requires JavaScript."
+    },
+    {
+      "id": "bing-ai-performance",
+      "title": "Bing AI Performance",
+      "url": "https://www.bing.com/webmasters/help/ai-performance-9f8e7d6c",
+      "retrieved_on": "2026-11-21"
+    },
+    {
+      "id": "bing-ai-announcement",
+      "title": "Introducing AI Performance in Bing Webmaster Tools",
+      "url": "https://blogs.bing.com/webmaster/2026/2/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview/",
+      "retrieved_on": "2026-11-21"
+    }
+  ]
+}

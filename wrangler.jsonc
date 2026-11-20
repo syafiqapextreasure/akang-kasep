@@ -1,0 +1,21 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "akang-kasep",
+  "main": "src/worker.mjs",
+  "compatibility_date": "2026-11-20",
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "run_worker_first": true,
+    "html_handling": "drop-trailing-slash",
+    "not_found_handling": "404-page"
+  },
+  "vars": { "RETENTION_DAYS": "90" },
+  "d1_databases": [{
+    "binding": "ENQUIRIES",
+    "database_name": "akang-kasep-enquiries",
+    "database_id": "00000000-0000-0000-0000-000000000000",
+    "migrations_dir": "migrations"
+  }],
+  "triggers": { "crons": ["17 2 * * *"] }
+}

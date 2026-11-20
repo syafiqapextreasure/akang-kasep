@@ -1,0 +1,112 @@
+[
+  {
+    "width": 390,
+    "route": "/",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "/about",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "/services",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "/projects",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "/projects/education-facility",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "/project-progress",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "/credentials",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "/contact",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "/privacy",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "/thank-you",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "/404",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "/",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "/about",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "/services",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "/projects",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "/projects/education-facility",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "/project-progress",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "/credentials",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "/contact",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "/privacy",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "/thank-you",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "/404",
+    "violations": []
+  }
+]

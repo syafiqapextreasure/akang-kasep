@@ -1,0 +1,11 @@
+import {chromium} from 'playwright';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {routes} from '../src/data.mjs';
+const base=process.env.PREVIEW_URL||'http://127.0.0.1:4321';
+const out=path.resolve(process.env.QA_OUTPUT||'review/screenshots');await fs.mkdir(out,{recursive:true});
+const browser=await chromium.launch({headless:true,...(process.env.BROWSER_PATH?{executablePath:process.env.BROWSER_PATH}:{channel:'msedge'})});
+const matrix=process.argv.includes('--matrix')?[{name:'desktop',width:1024,height:900},{name:'tablet',width:768,height:1024},{name:'phone',width:390,height:844}]:[{name:'desktop',width:1024,height:900}];
+const result=[];
+for(const size of matrix){const context=await browser.newContext({viewport:size,deviceScaleFactor:1,reducedMotion:'reduce'});for(const route of routes){const page=await context.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));const response=await page.goto(base+route.path,{waitUntil:'networkidle'});await page.evaluate(()=>{document.querySelectorAll('img').forEach(i=>i.loading='eager');document.querySelectorAll('.reveal-ready').forEach(e=>e.classList.add('in-view'));});await page.evaluate(()=>Promise.all([...document.images].map(img=>img.decode().catch(()=>{}))));await page.evaluate(()=>document.fonts.ready);const screenshot=path.join(out,`${size.name}-${route.key}.png`);await page.screenshot({path:screenshot,fullPage:true,animations:'disabled'});const metrics=await page.evaluate(()=>({width:innerWidth,height:document.documentElement.scrollHeight,overflow:document.documentElement.scrollWidth>innerWidth,bodyFont:getComputedStyle(document.body).fontSize,h1Font:getComputedStyle(document.querySelector('h1')).fontSize,images:[...document.querySelectorAll('img[src]')].filter(i=>!i.closest('dialog')).map(i=>({src:i.currentSrc,loaded:i.complete&&i.naturalWidth>0,visible:!!i.getClientRects().length})),title:document.title}));result.push({route:route.path,key:route.key,screen:size.name,status:response.status(),screenshot:path.relative(path.resolve('.'),screenshot),errors,...metrics});console.log(`${size.name} ${route.path} ${metrics.height}px ${metrics.overflow?'OVERFLOW':''}`);await page.close();}await context.close();}
+await browser.close();await fs.writeFile(path.join(out,'capture-results.json'),JSON.stringify(result,null,2));

@@ -1,0 +1,15 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import sharp from 'sharp';
+import {createHash} from 'node:crypto';
+const root=path.resolve(import.meta.dirname,'..');const assets=path.join(root,'public/assets');
+const inventory=JSON.parse(await fs.readFile(path.join(root,'docs/asset-inventory.json'),'utf8'));
+const sha=b=>createHash('sha256').update(b).digest('hex');
+for(const photo of inventory.photos){const id=String(photo.id).padStart(2,'0');const original=path.join(assets,`image-${id}.webp`);for(const width of [240,320,640]){const filename=`image-${id}-${width}.webp`;const target=path.join(assets,filename);const data=await sharp(original).resize({width,withoutEnlargement:true}).webp({lossless:true,effort:6}).toBuffer();await fs.writeFile(target,data);const meta=await sharp(data).metadata();const record={file:'/assets/'+filename,bytes:data.length,width:meta.width,height:meta.height,sha256:sha(data),losslessEncoding:true,originalPixelsPreserved:false,operation:`Resize to ${width}px width without upscaling, then lossless WebP`};photo.outputs=photo.outputs.filter(o=>o.file!==record.file);photo.outputs.push(record);}}
+const logo=await sharp(path.join(assets,'logo.webp')).resize({width:320}).webp({lossless:true,effort:6}).toBuffer();await fs.writeFile(path.join(assets,'logo-320.webp'),logo);inventory.brand=inventory.brand.filter(b=>b.file!=='/assets/logo-320.webp');inventory.brand.push({file:'/assets/logo-320.webp',width:320,bytes:logo.length,operation:'Original logo resized to 320px; lossless encoding',sha256:sha(logo)});
+for(const [name,w]of [['paper',256],['green',320]]){const input=path.join(assets,name+'-generated.webp');const output=path.join(assets,name+'-web.webp');await sharp(input).resize({width:w}).webp({lossless:true,effort:6}).toFile(output);inventory.decorations=inventory.decorations.filter(d=>d.file!==`/assets/${name}-web.webp`);inventory.decorations.push({file:`/assets/${name}-web.webp`,source:`/assets/${name}-generated.webp`,operation:`Resize decorative texture to ${w}px; lossless web encoding. Full master retained separately.`,bytes:(await fs.stat(output)).size});}
+const sourceFiles=(await fs.readdir(path.join(root,'src/content'))).map(f=>path.join(root,'src/content',f));
+for(const file of sourceFiles){let html=await fs.readFile(file,'utf8');html=html.replace(/srcset="\/assets\/image-(\d+)-480.webp 480w, \/assets\/image-\1-768.webp 768w, \/assets\/image-\1.webp (\d+)w"/g,(_,id,width)=>`srcset="/assets/image-${id}-240.webp 240w, /assets/image-${id}-320.webp 320w, /assets/image-${id}-480.webp 480w, /assets/image-${id}-640.webp 640w, /assets/image-${id}-768.webp 768w, /assets/image-${id}.webp ${width}w"`);await fs.writeFile(file,html);}
+inventory.totals.allResponsivePhotoBytes=inventory.photos.reduce((sum,p)=>sum+p.outputs.reduce((a,o)=>a+o.bytes,0),0);
+await fs.writeFile(path.join(root,'docs/asset-inventory.json'),JSON.stringify(inventory,null,2));
+console.log('Added lossless 240/320/640px derivatives, 320px logo and compact background tiles.');

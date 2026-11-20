@@ -1,0 +1,12 @@
+import http from 'node:http';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import worker from '../src/worker.mjs';
+import {createLocalDb} from './local-db.mjs';
+import './build.mjs';
+const root=path.resolve(import.meta.dirname,'../dist');
+const db=createLocalDb();
+const types={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.webp':'image/webp','.png':'image/png','.woff2':'font/woff2','.xml':'application/xml; charset=utf-8','.txt':'text/plain; charset=utf-8','.json':'application/json'};
+const assets={async fetch(request){const url=new URL(request.url);let pathname;try{pathname=decodeURIComponent(url.pathname);}catch{return new Response('Bad path',{status:400});}const safe=path.resolve(root,'.'+pathname);if(!safe.startsWith(root+path.sep)&&safe!==root)return new Response('Forbidden',{status:403});let file=safe;let status=200;try{const stat=await fs.stat(file);if(stat.isDirectory())file=path.join(file,'index.html');await fs.access(file);}catch{file=path.join(root,'404.html');status=404;}try{return new Response(await fs.readFile(file),{status,headers:{'Content-Type':types[path.extname(file)]||'application/octet-stream'}});}catch{return new Response('Not found',{status:404});}}};
+const port=Number(process.env.PORT)||4321;
+http.createServer(async(req,res)=>{try{const body=[];for await(const chunk of req)body.push(chunk);const request=new Request(`http://127.0.0.1:${port}${req.url}`,{method:req.method,headers:req.headers,...(!['GET','HEAD'].includes(req.method)?{body:Buffer.concat(body)}:{})});const response=await worker.fetch(request,{ASSETS:assets,ENQUIRIES:db});res.writeHead(response.status,Object.fromEntries(response.headers));res.end(Buffer.from(await response.arrayBuffer()));}catch{res.writeHead(500);res.end('Local preview error');}}).listen(port,'127.0.0.1',()=>console.log(`Local: http://127.0.0.1:${port}\nLocal preview stores test enquiries in memory only.`));

@@ -1,0 +1,806 @@
+{
+  "checkedAt": "2026-11-20T18:04:16.095Z",
+  "checks": [
+    {
+      "name": "measurements 320",
+      "metrics": [
+        {
+          "route": "/",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/about",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/services",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/projects",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/projects/education-facility",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/project-progress",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/credentials",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/contact",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/privacy",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/thank-you",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/404",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "name": "responsive 320",
+      "passed": true
+    },
+    {
+      "name": "measurements 390",
+      "metrics": [
+        {
+          "route": "/",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/about",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/services",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/projects",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/projects/education-facility",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/project-progress",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/credentials",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/contact",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/privacy",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/thank-you",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/404",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "name": "responsive 390",
+      "passed": true
+    },
+    {
+      "name": "measurements 768",
+      "metrics": [
+        {
+          "route": "/",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/about",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/services",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/projects",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/projects/education-facility",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/project-progress",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/credentials",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/contact",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/privacy",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/thank-you",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/404",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "name": "responsive 768",
+      "passed": true
+    },
+    {
+      "name": "measurements 1024",
+      "metrics": [
+        {
+          "route": "/",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/about",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/services",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/projects",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/projects/education-facility",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/project-progress",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/credentials",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/contact",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/privacy",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/thank-you",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        },
+        {
+          "route": "/404",
+          "overflow": false,
+          "fonts": true,
+          "body": 18,
+          "heading": 1,
+          "header": 90,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "name": "responsive 1024",
+      "passed": true
+    },
+    {
+      "name": "measurements 1440",
+      "metrics": [
+        {
+          "route": "/",
+          "overflow": false,
+          "fonts": true,
+          "body": 20.36,
+          "heading": 1,
+          "header": 101.796875,
+          "duplicates": []
+        },
+        {
+          "route": "/about",
+          "overflow": false,
+          "fonts": true,
+          "body": 20.36,
+          "heading": 1,
+          "header": 101.796875,
+          "duplicates": []
+        },
+        {
+          "route": "/services",
+          "overflow": false,
+          "fonts": true,
+          "body": 20.36,
+          "heading": 1,
+          "header": 101.796875,
+          "duplicates": []
+        },
+        {
+          "route": "/projects",
+          "overflow": false,
+          "fonts": true,
+          "body": 20.36,
+          "heading": 1,
+          "header": 101.796875,
+          "duplicates": []
+        },
+        {
+          "route": "/projects/education-facility",
+          "overflow": false,
+          "fonts": true,
+          "body": 20.36,
+          "heading": 1,
+          "header": 101.796875,
+          "duplicates": []
+        },
+        {
+          "route": "/project-progress",
+          "overflow": false,
+          "fonts": true,
+          "body": 20.36,
+          "heading": 1,
+          "header": 101.796875,
+          "duplicates": []
+        },
+        {
+          "route": "/credentials",
+          "overflow": false,
+          "fonts": true,
+          "body": 20.36,
+          "heading": 1,
+          "header": 101.796875,
+          "duplicates": []
+        },
+        {
+          "route": "/contact",
+          "overflow": false,
+          "fonts": true,
+          "body": 20.36,
+          "heading": 1,
+          "header": 101.796875,
+          "duplicates": []
+        },
+        {
+          "route": "/privacy",
+          "overflow": false,
+          "fonts": true,
+          "body": 20.36,
+          "heading": 1,
+          "header": 101.796875,
+          "duplicates": []
+        },
+        {
+          "route": "/thank-you",
+          "overflow": false,
+          "fonts": true,
+          "body": 20.36,
+          "heading": 1,
+          "header": 101.796875,
+          "duplicates": []
+        },
+        {
+          "route": "/404",
+          "overflow": false,
+          "fonts": true,
+          "body": 20.36,
+          "heading": 1,
+          "header": 101.796875,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "name": "responsive 1440",
+      "passed": true
+    },
+    {
+      "name": "measurements 1920",
+      "metrics": [
+        {
+          "route": "/",
+          "overflow": false,
+          "fonts": true,
+          "body": 23.48,
+          "heading": 1,
+          "header": 126.78125,
+          "duplicates": []
+        },
+        {
+          "route": "/about",
+          "overflow": false,
+          "fonts": true,
+          "body": 23.48,
+          "heading": 1,
+          "header": 126.78125,
+          "duplicates": []
+        },
+        {
+          "route": "/services",
+          "overflow": false,
+          "fonts": true,
+          "body": 23.48,
+          "heading": 1,
+          "header": 126.78125,
+          "duplicates": []
+        },
+        {
+          "route": "/projects",
+          "overflow": false,
+          "fonts": true,
+          "body": 23.48,
+          "heading": 1,
+          "header": 126.78125,
+          "duplicates": []
+        },
+        {
+          "route": "/projects/education-facility",
+          "overflow": false,
+          "fonts": true,
+          "body": 23.48,
+          "heading": 1,
+          "header": 126.78125,
+          "duplicates": []
+        },
+        {
+          "route": "/project-progress",
+          "overflow": false,
+          "fonts": true,
+          "body": 23.48,
+          "heading": 1,
+          "header": 126.78125,
+          "duplicates": []
+        },
+        {
+          "route": "/credentials",
+          "overflow": false,
+          "fonts": true,
+          "body": 23.48,
+          "heading": 1,
+          "header": 126.78125,
+          "duplicates": []
+        },
+        {
+          "route": "/contact",
+          "overflow": false,
+          "fonts": true,
+          "body": 23.48,
+          "heading": 1,
+          "header": 126.78125,
+          "duplicates": []
+        },
+        {
+          "route": "/privacy",
+          "overflow": false,
+          "fonts": true,
+          "body": 23.48,
+          "heading": 1,
+          "header": 126.78125,
+          "duplicates": []
+        },
+        {
+          "route": "/thank-you",
+          "overflow": false,
+          "fonts": true,
+          "body": 23.48,
+          "heading": 1,
+          "header": 126.78125,
+          "duplicates": []
+        },
+        {
+          "route": "/404",
+          "overflow": false,
+          "fonts": true,
+          "body": 23.48,
+          "heading": 1,
+          "header": 126.78125,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "name": "responsive 1920",
+      "passed": true
+    },
+    {
+      "name": "measurements 2560",
+      "metrics": [
+        {
+          "route": "/",
+          "overflow": false,
+          "fonts": true,
+          "body": 27.64,
+          "heading": 1,
+          "header": 149.25,
+          "duplicates": []
+        },
+        {
+          "route": "/about",
+          "overflow": false,
+          "fonts": true,
+          "body": 27.64,
+          "heading": 1,
+          "header": 149.25,
+          "duplicates": []
+        },
+        {
+          "route": "/services",
+          "overflow": false,
+          "fonts": true,
+          "body": 27.64,
+          "heading": 1,
+          "header": 149.25,
+          "duplicates": []
+        },
+        {
+          "route": "/projects",
+          "overflow": false,
+          "fonts": true,
+          "body": 27.64,
+          "heading": 1,
+          "header": 149.25,
+          "duplicates": []
+        },
+        {
+          "route": "/projects/education-facility",
+          "overflow": false,
+          "fonts": true,
+          "body": 27.64,
+          "heading": 1,
+          "header": 149.25,
+          "duplicates": []
+        },
+        {
+          "route": "/project-progress",
+          "overflow": false,
+          "fonts": true,
+          "body": 27.64,
+          "heading": 1,
+          "header": 149.25,
+          "duplicates": []
+        },
+        {
+          "route": "/credentials",
+          "overflow": false,
+          "fonts": true,
+          "body": 27.64,
+          "heading": 1,
+          "header": 149.25,
+          "duplicates": []
+        },
+        {
+          "route": "/contact",
+          "overflow": false,
+          "fonts": true,
+          "body": 27.64,
+          "heading": 1,
+          "header": 149.25,
+          "duplicates": []
+        },
+        {
+          "route": "/privacy",
+          "overflow": false,
+          "fonts": true,
+          "body": 27.64,
+          "heading": 1,
+          "header": 149.25,
+          "duplicates": []
+        },
+        {
+          "route": "/thank-you",
+          "overflow": false,
+          "fonts": true,
+          "body": 27.64,
+          "heading": 1,
+          "header": 149.25,
+          "duplicates": []
+        },
+        {
+          "route": "/404",
+          "overflow": false,
+          "fonts": true,
+          "body": 27.64,
+          "heading": 1,
+          "header": 149.25,
+          "duplicates": []
+        }
+      ]
+    },
+    {
+      "name": "responsive 2560",
+      "passed": true
+    },
+    {
+      "name": "mobile menu keyboard and Escape",
+      "passed": true
+    },
+    {
+      "name": "project filters and history placement",
+      "passed": true
+    },
+    {
+      "name": "credential disclosure",
+      "passed": true
+    },
+    {
+      "name": "gallery opens and restores keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "progress stage controls, static mode and no duplicates",
+      "passed": true
+    },
+    {
+      "name": "unsubmitted confirmation cannot claim acceptance",
+      "passed": true
+    },
+    {
+      "name": "form preserves inputs on failure then records acceptance",
+      "passed": true
+    },
+    {
+      "name": "internal links, image/font URLs and search metadata",
+      "passed": true
+    },
+    {
+      "name": "JavaScript-off content and native enquiry fallback",
+      "passed": true
+    },
+    {
+      "name": "200 percent layout equivalent at desktop",
+      "passed": true
+    },
+    {
+      "name": "optional playback pauses, scroll mode and reduced-motion fallback",
+      "passed": true
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,71 @@
+AKANG KASEP WEBSITE — FINAL IMPLEMENTATION REVIEW
+21 November 2026 | Approved Warm Architectural direction
+
+DELIVERED SCOPE
+Eleven implemented screens, eleven clean routes, including the expanded About page (both approved panels) and the corrected Projects list. Shared original company logo, local fonts, ivory paper/forest textures, pale section bands, diagonal mosaic and ribbons, thin rules, outline icons and orange controls are included. No superseded About/Projects design is used.
+
+ROUTE MAP
+/ — Home
+/about — full company story, strengths, leadership, organisation, corporate facts and credentials overview
+/services — four alternating service rows with enquiry context links
+/projects — ongoing project plus two text-only historical experience records and working filters
+/projects/education-facility — ongoing placeholder case study and image gallery
+/project-progress — four-stage photographic story, manual/play/scroll/static modes
+/credentials — five registration/assessment categories, expandable details and document request
+/contact — enquiry form, actual company contact details and separate call/email strip
+/privacy — six sections describing the implemented enquiry/storage behaviour
+/thank-you — receipt-dependent confirmation; neutral for a direct visit
+/404 — genuine HTTP 404, shared navigation and recovery links
+
+APPROVED-PAGE AUDIT / RESOLUTION
+Home: angled two-image hero, caption ribbon, intro/service grid, three-photo stage story, classroom feature, four-step process, credential strip and forest CTA are present. Original photos 9/17/12/8/7/6 are distinct within the page. Fixed the font URL, excess intrinsic image height, tiny metadata and tablet intro-label overlap. The user’s prohibition on duplicate photos supersedes repeated photos in the earlier selected-theme image.
+About: restored all substantive sections from the latest two-panel design. Technical reporting lines preserve PW4 technicians under Chargeman B0. Historical contracts are absent here and present on Projects. Removed default definition-list margins so the corporate table fits smaller screens.
+Services: retained four alternating editorial rows, numbers, square bullets, project-interior caption and process strip. Constrained photographic frames to eliminate accidental height inflation and image/text overlap. Tablet process heading moves above its four steps.
+Projects: one ongoing feature with a distinct lead photograph; both historical contracts retain client, scope, value and PROFILE DATE. No unrelated photographs are attached to historical contracts. All/Ongoing/Past experience controls work.
+Project detail: distinct corner-view hero, status/metadata band, overview/highlights, four unique gallery images and progress link. Adjusted hero focal point upward to retain the roof and sky; full originals are accessible through the gallery.
+Before & After: distinct latest-view hero and three earlier-stage cards, orange stage timeline, previous/play/next controls, optional scroll story and static all-stages view. Corrected portrait thumbnail letterboxing with intentional cover crops. The currently selected image is hidden from the supporting cards; the main viewer is hidden in all-stages mode. Different viewpoints are presented as stages, not a fabricated aligned before/after slider.
+Credentials: identity band with folded-document icon, four half-width cards and full-width SCORE card, slanted accents, details and request-profile strip. Source documents containing private information are not publicly exposed.
+Contact: retained 42/58 desktop columns, orange outline icons, form fields, privacy acknowledgement, overhead panorama and dedicated conversation strip. Corrected panorama crop to retain the road and tablet email wrapping. No redundant generic closing CTA.
+Privacy: restored uppercase CONTENTS, ruled links and full-height divider; responsive contents stack above the text. Replaced draft placeholder copy with actual D1/retention/no-analytics behaviour.
+Confirmation: moved the three-step process outside the bordered panel; restored filled success icon, pale process discs and primary Explore Our Projects action. The success icon and text appear only for a stored enquiry receipt. A direct visit is deliberately neutral.
+404: header, pale large 404, accent rule, actions, recovery strip and footer are present. An earlier rolling-audit observation about a missing header was disproved by final screenshots and DOM checks.
+
+INTENTIONAL DIFFERENCES FROM RASTER REFERENCES
+- Exact font identification cannot be proved from generated raster images. DM Serif Display and Manrope are the selected visual match, self-hosted with their licenses.
+- Main reading text is at least 18px and grows with large displays: approximately 20.36px at 1440px, 23.48px at 1920px and 27.64px at 2560px. Some lines and page heights differ from the smaller raster labels. Mobile layout is a responsive interpretation because no separately approved phone design was supplied.
+- Genuine logo and project photographs replace generative approximations in the mockups. Source aspect ratios and camera viewpoints limit exact crop equivalence. No buildings, people, signs or project evidence were invented through enhancement.
+- Orange text-bearing controls were slightly darkened where required for readable contrast. Background paper/forest textures were extended with the owner-authorised built-in image generator; exact prompts and provenance are in generated-textures.json. Diagonal shapes and outline icons use resolution-independent CSS/SVG.
+- Privacy text describes actual implementation. Confirmation is conditional on acceptance. These functional changes take precedence over a static success/draft preview.
+No claim of mathematically exact, 100% pixel identity is made.
+
+ASSETS AND PERFORMANCE
+All 18 original full-size project photos were transcoded to lossless WebP, with decoded RGB hashes verified against their originals. Full-size photo bytes: 23,010,371 -> 12,859,088 (44.12% smaller). Responsive derivatives at 240/320/480/640/768px are resized without upscaling and encoded losslessly; full originals remain intact. Lead photos differ across the principal content pages. No repeated visible project image was detected on any default page at any checked width.
+Fonts are local (approximately 74KB total). JavaScript has no frontend framework, third-party analytics or advertising runtime. Photos include intrinsic dimensions, alt text, responsive sizes and lazy loading below the lead area.
+Mobile lab sample: 390px wide, DPR2, simulated 4Mbps download/40ms latency, no CPU throttling, local Edge server. Resource bytes approximately 1,034,284; LCP 1.792s; CLS 0. These are local lab measurements, not field Core Web Vitals or a production speed guarantee. INP and public-CDN behaviour require post-launch field measurement.
+
+SPECIFICATION ACCEPTANCE REVIEW
+Content/source integrity — Implemented from the supplied profile and latest approved designs. Newer SSM extract is used for director spelling and issued capital; dated source conflicts are documented separately. Current live registry status, official project identity/permissions and exact scope remain owner facts to verify when publishing. Working project titles are retained as instructed; no invented completed status or testimonials.
+Site structure — All approved screen types present. Clean URL redirects, page status codes, breadcrumbs, internal links and unique H1/title/description checked.
+Progress scene — Manual selection, previous/next, optional one-cycle playback, pause, scroll mode, reduced motion and all-stages fallback checked. Images are decoded before replacement; failed images retain the previous frame. Native scrolling remains available.
+Matched comparison — Not enabled because the supplied images are different viewpoints. The specification explicitly permits the implemented staged story.
+Responsive/accessibility — All eleven routes checked at 320/390/768/1024/1440/1920/2560px without horizontal overflow. Desktop 200%-zoom-equivalent layout checked at 720px. Original screenshots captured at desktop/tablet/phone. Automated axe WCAG A/AA scans at 390 and 1440px: zero reported violations after contrast fixes. Keyboard menu, disclosures, gallery focus restoration, stage controls, reduced motion and JavaScript-off content checked. Automated results are not full accessibility certification; physical iOS/Safari and assistive-technology testing were not available.
+Form — Server validation, missing storage, origin rejection, oversized/invalid payloads, rate limit, idempotency/conflict, private receipt, failure preservation and retry tested locally. Native form submission is supported. No success is shown before storage. Production handling requires Cloudflare D1 setup and a controlled post-install enquiry check. Automatic email notification is not configured; the handling destination is the owner's D1 console.
+Performance/reliability — Local mobile initial-weight/LCP/CLS targets met in the recorded sample. Cloudflare Worker dry-run packaging passed. Cloudflare account/domain/database installation and production field metrics are outside this local build verification.
+Public assets/search — Original sensitive PDF excluded. Canonical origin, XML sitemap, robots, noindex states, local assets and JSON-LD checked. Placeholder detail/progress routes are excluded from the sitemap. Noindex is not access control; use Cloudflare Access if an installed preview must be private.
+Operations — Migration, setup helper, 90-day scheduled cleanup, security headers, account-only D1 handling, rollback instructions and official platform references included. No Cloudflare deployment, DNS changes, external emails or outreach activity performed.
+
+SEARCH / AEO / GEO
+Research and keyword mapping are in search-research.txt/json, with official source links. Priority themes are construction and maintenance in Kuala Terengganu, building maintenance in Terengganu and relevant Bahasa Melayu equivalents. Competitor research includes WAA Bina and GPQ locally, and Building Lindungan/AMJ Technique for adjacent maintenance services. Priorities express relevance, not measured search volumes. Visible facts, semantic headings, descriptive project text and accurate structured data support retrieval; no ranking or AI-answer inclusion is guaranteed.
+
+VERIFICATION EVIDENCE
+review/browser-results.json — responsive measurements and end-to-end test outcomes
+review/accessibility-results.json — page-level automated accessibility results
+review/performance-results.json — measured resources and local lab conditions
+review/screenshots/ — final full-page captures (local review artifact; ignored by Git)
+docs/asset-inventory.json — original hashes, derivative dimensions and transformation history
+docs/content-source-review.txt — profile coverage and source conflicts
+docs/approved-design-audit.txt — original layout/asset map
+README.md — local preview, Cloudflare install, enquiry handling and content editing
+
+DELIVERY BOUNDARY
+The website source is prepared for the requested GitHub repository and Cloudflare Workers installation. The owner installs/configures D1 and hosting, confirms the current business/project/public-document details, and runs a production enquiry check. These deployment inputs are distinguished from completed local implementation and verification.

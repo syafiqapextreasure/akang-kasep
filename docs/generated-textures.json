@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-21",
+  "tool": "built-in image_gen",
+  "authorization": "Owner selected built-in generator after disclosure that explicit gpt-image-2 API controls were unavailable.",
+  "jobs": [
+    {
+      "key": "paper",
+      "prompt": "Create a high-quality seamless web background texture asset derived ONLY from the warm off-white paper background in this approved Akang Kasep webpage reference. Extract and extend the quiet ivory/cream paper texture visible behind the typography, no webpage content. Exact warm base #F9F2EB, extremely subtle fine natural paper grain and very faint mottling, uniform lightness, no strong stains, no prominent vignette. Seamless tile 1536 by 1536, premium editorial paper. No logo, text, letters, shapes, photographs, frames, objects or watermark. The result will be repeated behind a faithful website implementation, so it must look like the reference's unobtrusive background, not decorative art."
+    },
+    {
+      "key": "green",
+      "prompt": "Create a high-quality seamless web background texture asset derived ONLY from the dark forest-green closing CTA band in this approved Akang Kasep webpage reference. Extract and extend that subtle deep green material background; remove all words/buttons/lines. Exact deep forest colors #174039 to #1A443C, nearly uniform softly mottled dark green with barely visible fine paper-like grain. No brighter corners, no large vignette, no folds. Seamless wide 2048x1024 texture for a website CTA background. No typography, logo, shape, icons, images, labels, border or watermark. Match the original quiet band closely so ivory text over it retains strong contrast."
+    }
+  ]
+}
